@@ -1,0 +1,13 @@
+flask
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+transformers
+peft
+llama-cpp-python
+jinja2
+python-dotenv
+torch
+pdfplumber
+numpy

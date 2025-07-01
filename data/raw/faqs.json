@@ -1,0 +1,1693 @@
+[
+  {
+    "question": "What's the main difference between B2B and B2C invoices in GST?",
+    "answer": "A B2B (Business-to-Business) invoice is for a registered GST entity and must have the recipient's GSTIN so they can claim Input Tax Credit (ITC). A B2C (Business-to-Consumer) invoice is for an unregistered customer. While individual invoices are not always mandatory for small local sales, for interstate B2C sales over ₹2.5 lakhs, a full invoice is required.",
+    "source": "Rule 46, CGST Rules, 2017"
+  },
+  {
+    "question": "Do I pay GST under RCM if I buy from an unregistered dealer?",
+    "answer": "No, the requirement for general purchases from unregistered dealers under Section 9(4) is suspended. Reverse Charge Mechanism (RCM) currently applies only to specific goods and services (like services from a Goods Transport Agency or an advocate) or to purchases by a promoter for real estate projects from unregistered persons.",
+    "source": "Notification No. 07/2019-Central Tax (Rate)"
+  },
+  {
+    "question": "What is a 'Composite Supply' under GST? Can you give an example?",
+    "answer": "A 'Composite Supply' involves two or more goods or services naturally bundled and sold together, where one is the main (principal) supply. The entire package is taxed at the rate of the principal supply. For example, when you buy a laptop that comes with a pre-installed OS and a warranty, the laptop is the principal supply, and its GST rate applies to the whole transaction.",
+    "source": "Section 2(30), CGST Act, 2017"
+  },
+  {
+    "question": "What does 'Blocked Credit' mean in GST?",
+    "answer": "Blocked credit is the Input Tax Credit (ITC) on certain purchases that you can't claim, even if they're for business use. Common examples include ITC on motor vehicles for personal use, club memberships, health and life insurance, and goods that are lost, stolen, or given as free samples.",
+    "source": "Section 17(5), CGST Act, 2017"
+  },
+  {
+    "question": "When do I need to generate an E-Way Bill?",
+    "answer": "You must generate an E-Way Bill before moving goods if the total value of the consignment is over ₹50,000. This applies to both sales and other movements like stock transfers. While this is the national rule, some states may have different value limits for movements within the state.",
+    "source": "Rule 138, CGST Rules, 2017"
+  },
+  {
+    "question": "I run a small bakery with a turnover of ₹35 lakhs. Do I need GST registration?",
+    "answer": "No. The standard GST registration threshold for businesses supplying goods is ₹40 lakhs. Since your turnover is below this, you don't need to register. Keep in mind, for service providers and businesses in certain special category states, this threshold is lower at ₹20 lakhs.",
+    "source": "Section 22, CGST Act, 2017"
+  },
+  {
+    "question": "What is the QRMP scheme in GST?",
+    "answer": "The QRMP (Quarterly Return Monthly Payment) scheme is designed for small taxpayers with an annual turnover up to ₹5 crores. It lets you file your main returns (GSTR-1 and GSTR-3B) every quarter instead of every month, though you still need to pay your taxes monthly via a simple challan.",
+    "source": "Rule 61A, CGST Rules, 2017"
+  },
+  {
+    "question": "Is there a deadline to claim ITC on an invoice from the last financial year?",
+    "answer": "Yes. You can claim Input Tax Credit (ITC) for an invoice from a financial year up to November 30th of the next financial year, or the date you file your annual return (GSTR-9), whichever comes first. After this deadline, the credit is lost.",
+    "source": "Section 16(4), CGST Act, 2017"
+  },
+  {
+    "question": "What does 'Zero-Rated Supply' mean? Is it the same as a 0% GST rate?",
+    "answer": "No, they are different. A 'Zero-Rated Supply' (like exports or supplies to an SEZ) means no GST is charged on the final product, but you can still claim a refund for the ITC paid on your inputs. A 'Nil' rated supply has a 0% tax rate, but you cannot claim any ITC on it.",
+    "source": "Section 16, IGST Act, 2017"
+  },
+  {
+    "question": "Where is the 'Place of Supply' for services related to a building?",
+    "answer": "For services directly connected to an immovable property, such as architecture, interior design, or construction, the 'Place of Supply' is always the location where the property is situated.",
+    "source": "Section 12(3), IGST Act, 2017"
+  },
+  {
+    "question": "If my business has both taxable and exempt sales, how do I handle ITC?",
+    "answer": "You must segregate your ITC. You can claim full credit for inputs used exclusively for taxable sales, but you cannot claim any credit for inputs used for exempt sales. For common inputs used for both, you must reverse the ITC in proportion to your exempt turnover.",
+    "source": "Rule 42, CGST Rules, 2017"
+  },
+  {
+    "question": "Is GST applicable on salary paid to a company director?",
+    "answer": "It depends. If the director is an employee and the payment is classified as 'salary' with TDS deducted under Section 192 of the Income Tax Act, no GST applies. However, for payments to a non-employee director (like sitting fees), GST is payable by the company under the Reverse Charge Mechanism (RCM).",
+    "source": "CBIC Circular No. 140/10/2020-GST"
+  },
+  {
+    "question": "What is the purpose of the GSTR-9 annual return?",
+    "answer": "GSTR-9 is the annual GST return that consolidates the information from all your monthly or quarterly returns (GSTR-1, GSTR-3B) filed throughout the year. It's a summary of your sales, purchases, ITC, and tax paid. Filing is mandatory for businesses with an annual turnover over ₹2 crores.",
+    "source": "Section 44, CGST Act, 2017"
+  },
+  {
+    "question": "I'm in Delhi and provide services to a US client. What GST should I charge?",
+    "answer": "This is an 'export of services,' which is a zero-rated supply. You should not charge any GST. To do this compliantly, you must furnish a Letter of Undertaking (LUT) on the GST portal. This allows you to export without paying IGST and still claim a refund of ITC on your business expenses.",
+    "source": "Section 16, IGST Act, 2017"
+  },
+  {
+    "question": "What happens if my company pays its GST late?",
+    "answer": "If you delay your GST payment, you're liable for interest at 18% per year on the amount of tax due. Additionally, a late fee applies for filing the GSTR-3B return after the due date, which is ₹50 per day (₹20 for nil returns), subject to a maximum cap.",
+    "source": "Section 50 & Section 47, CGST Act, 2017"
+  },
+  {
+    "question": "Who needs to generate e-invoices?",
+    "answer": "E-invoicing is mandatory for all registered businesses with an aggregate annual turnover over ₹5 crores. This system requires B2B invoices to be electronically authenticated by the official Invoice Registration Portal (IRP).",
+    "source": "Notification No. 10/2023-Central Tax"
+  },
+  {
+    "question": "Can I claim the entire ITC on a large machine (capital good) immediately?",
+    "answer": "Yes. Under GST, you can claim 100% of the Input Tax Credit on capital goods in the same month you receive them and account for them in your books, as long as all other conditions for claiming ITC are met.",
+    "source": "Section 16(2), CGST Act, 2017"
+  },
+  {
+    "question": "What's the GST rate on buying an under-construction apartment?",
+    "answer": "For most under-construction residential properties, the GST rate is 5%, but the builder cannot claim ITC. For apartments that fall under the affordable housing category, the rate is a lower 1% without ITC. There is no GST on the sale of apartments that are ready for occupation and have a completion certificate.",
+    "source": "Notification No. 11/2017-Central Tax (Rate)"
+  },
+  {
+    "question": "How long is an E-Way Bill valid?",
+    "answer": "The validity depends on the travel distance. For regular cargo, it's valid for one day for every 200 km. For larger, over-dimensional cargo, the validity is one day for every 20 km. The clock starts as soon as the bill is generated.",
+    "source": "Rule 138(10), CGST Rules, 2017"
+  },
+  {
+    "question": "If a customer pays me an advance for goods, do I have to pay GST immediately?",
+    "answer": "No. For the supply of goods, GST liability arises only when the invoice is issued, not when an advance is received. However, for services, the rule is different, and GST is payable on receipt of the advance.",
+    "source": "Notification No. 66/2017-Central Tax"
+  },
+  {
+    "question": "What is the difference between GSTR-2A and GSTR-2B?",
+    "answer": "GSTR-2A is a dynamic, live view of invoices uploaded by your suppliers. GSTR-2B is a fixed, monthly statement that summarizes the ITC available to you for that period. You should always claim ITC based on the static GSTR-2B, as it ensures both you and your supplier are referencing the same data.",
+    "source": "GSTN Portal Guidelines & Rule 36(4)"
+  },
+  {
+    "question": "How does the Invoice Furnishing Facility (IFF) work?",
+    "answer": "The IFF is for businesses using the QRMP scheme. It allows them to upload their B2B invoices for the first two months of a quarter. This is crucial as it lets their customers claim ITC monthly, rather than having to wait for the quarter to end.",
+    "source": "Rule 59(2), CGST Rules, 2017"
+  },
+  {
+    "question": "What qualifies as a 'deemed export' in GST?",
+    "answer": "Deemed exports are specific transactions where goods don't leave India but are treated as exports for GST refund purposes. A common example is supplying goods to a business that is an Export Oriented Unit (EOU). The supplier can claim a refund of the tax paid on such sales.",
+    "source": "Notification No. 48/2017-Central Tax"
+  },
+  {
+    "question": "What is the 'Anti-Profiteering' rule in GST?",
+    "answer": "This rule mandates that businesses must pass on the benefit of any GST rate reduction or any new input tax credit to their customers by way of a proportional reduction in prices. The Competition Commission of India (CCI) now handles cases related to this.",
+    "source": "Section 171, CGST Act, 2017"
+  },
+  {
+    "question": "What is an Input Service Distributor (ISD)?",
+    "answer": "An ISD is typically a head office that receives invoices for common services used by its multiple branches (e.g., advertising, auditing). The ISD's job is to distribute the ITC on these common services to the individual branches in a proportional manner by issuing an ISD invoice.",
+    "source": "Section 20 & 21, CGST Act, 2017"
+  },
+  {
+    "question": "Can I claim ITC on items I give away as free samples?",
+    "answer": "No. The law specifically blocks ITC on goods that are disposed of by way of gift or free samples. Therefore, you cannot claim credit for the GST paid on such items.",
+    "source": "Section 17(5)(h), CGST Act, 2017"
+  },
+  {
+    "question": "I've cancelled my GST registration. What is the GSTR-10 Final Return?",
+    "answer": "GSTR-10 is a one-time Final Return that must be filed within three months of the date of cancellation of your GST registration. In this return, you must provide details of your closing stock and pay any tax liability arising from it, effectively closing your GST account.",
+    "source": "Section 45, CGST Act, 2017"
+  },
+  {
+    "question": "How is 'Time of Supply' determined if the GST rate changes?",
+    "answer": "When there's a GST rate change, specific rules apply. The 'Time of Supply' is generally determined by which two of the following three events happen before or after the rate change: the provision of the service/goods, the issuance of the invoice, and the receipt of payment.",
+    "source": "Section 14, CGST Act, 2017"
+  },
+  {
+    "question": "Is GST charged on services from the government?",
+    "answer": "While most government services are exempt, some are taxable under GST. This includes services like Speed Post from the Department of Posts, services related to aircraft or vessels, and certain services provided to business entities.",
+    "source": "Notification No. 12/2017-Central Tax (Rate)"
+  },
+  {
+    "question": "What are the GST implications for a Joint Development Agreement (JDA)?",
+    "answer": "In a JDA, where a landowner gives development rights to a builder in return for apartments, GST is applicable. The builder's liability to pay GST on the apartments given to the landowner arises when the possession or right in those apartments is transferred.",
+    "source": "CBIC Circular No. 151/07/2021-GST"
+  },
+  {
+    "question": "What is the difference between the Old and New Tax Regimes?",
+    "answer": "The Old Tax Regime lets you claim popular deductions like 80C, 80D, and HRA. The New Tax Regime offers lower tax rates but requires you to forgo most of these deductions. The New Regime is now the default, but you can choose to opt into the Old Regime when filing your return.",
+    "source": "Section 115BAC, Income Tax Act, 1961"
+  },
+  {
+    "question": "I'm a salaried professional. Can I use the presumptive tax scheme?",
+    "answer": "No, not for your salary income. The presumptive scheme under Section 44AD is only for business income. If you have a salary and also run a small side business, you can use the presumptive scheme for the business income portion only.",
+    "source": "Section 44AD, Income Tax Act, 1961"
+  },
+  {
+    "question": "What's the TDS rate for winnings from online games?",
+    "answer": "A flat 30% TDS is applied to the 'net winnings' from any online game. This is deducted either when you withdraw the money or at the end of the financial year. The earlier threshold of ₹10,000 does not apply here.",
+    "source": "Section 194BA, Income Tax Act, 1961"
+  },
+  {
+    "question": "I sold a house after owning it for 5 years. Is the profit taxable?",
+    "answer": "Yes. Since you held it for more than 24 months, the profit is a Long-Term Capital Gain (LTCG). This is taxed at 20% after applying indexation to account for inflation. You can save this tax by reinvesting the gain into another house (under Sec 54) or specified bonds (under Sec 54EC).",
+    "source": "Section 48 & Section 54, Income Tax Act, 1961"
+  },
+  {
+    "question": "What's the maximum PPF investment for an 80C deduction?",
+    "answer": "You can invest up to ₹1,50,000 in a Public Provident Fund (PPF) account each financial year. The full amount is eligible for deduction under the overall ₹1.5 lakh limit of Section 80C.",
+    "source": "Section 80C, Income Tax Act, 1961"
+  },
+  {
+    "question": "If my income is ₹6.5 lakhs, do I pay tax under the New Regime?",
+    "answer": "No. Under the New Tax Regime, if your net taxable income is up to ₹7 lakhs, you get a full tax rebate under Section 87A. This means your final tax liability becomes zero.",
+    "source": "Section 87A, Income Tax Act, 1961"
+  },
+  {
+    "question": "What are the due dates for paying advance tax?",
+    "answer": "If your estimated tax liability for the year is ₹10,000 or more, you must pay advance tax in four installments: 15% by June 15, 45% by Sep 15, 75% by Dec 15, and 100% by March 15.",
+    "source": "Section 211, Income Tax Act, 1961"
+  },
+  {
+    "question": "Is a ₹1 lakh gift from a friend taxable?",
+    "answer": "Yes. Any gift or sum of money from a non-relative is taxable if the total amount received in a year exceeds ₹50,000. The entire ₹1 lakh would be taxed as 'Income from Other Sources'. Gifts from specified relatives (like parents, spouse, siblings) are exempt.",
+    "source": "Section 56(2)(x), Income Tax Act, 1961"
+  },
+  {
+    "question": "What's the difference between Form 16 and Form 16A?",
+    "answer": "Form 16 is the TDS certificate your employer gives you for tax deducted from your salary. Form 16A is the TDS certificate for tax deducted on any income other than salary, like interest from fixed deposits, professional fees, or rent.",
+    "source": "Rule 31, Income Tax Rules, 1962"
+  },
+  {
+    "question": "Can I claim a deduction for my parents' health insurance?",
+    "answer": "Yes. Under Section 80D, you can claim a deduction for health insurance premiums paid for your parents. The deduction limit is up to ₹25,000 if they are under 60, and up to ₹50,000 if they are senior citizens.",
+    "source": "Section 80D, Income Tax Act, 1961"
+  },
+  {
+    "question": "Why did my bank deduct TDS on my savings account interest?",
+    "answer": "It's unlikely. Banks don't deduct TDS on savings account interest. They do deduct TDS on Fixed Deposit (FD) interest if it exceeds ₹40,000 in a financial year (₹50,000 for senior citizens). You may have confused the two.",
+    "source": "Section 194A, Income Tax Act, 1961"
+  },
+  {
+    "question": "I have a salary and also made capital gains. Which ITR form should I use?",
+    "answer": "You should file ITR-2. The simpler ITR-1 (Sahaj) form is for individuals with salary income, one house property, and limited other income, but it cannot be used if you have any capital gains.",
+    "source": "Income Tax Department Portal FAQs"
+  },
+  {
+    "question": "What's an updated return (ITR-U)?",
+    "answer": "ITR-U is a form that allows you to correct errors or report income you missed in your original return. You can file it within two years from the end of the relevant assessment year, but you have to pay an additional tax of 25% or 50% on the tax due.",
+    "source": "Section 139(8A), Income Tax Act, 1961"
+  },
+  {
+    "question": "I'm a doctor with my own clinic. Can I use the presumptive scheme?",
+    "answer": "Yes. As a specified professional, you can use the presumptive taxation scheme under Section 44ADA if your gross annual receipts are up to ₹75 lakhs (provided less than 5% of receipts are in cash). This lets you declare 50% of your gross receipts as your taxable income, simplifying compliance.",
+    "source": "Section 44ADA, Income Tax Act, 1961"
+  },
+  {
+    "question": "What is the Annual Information Statement (AIS)?",
+    "answer": "The AIS is a detailed statement provided by the Income Tax Department that shows all the financial information they have about you from various sources. This includes salary, interest, dividends, property transactions, and more. It's crucial to check your AIS before filing your ITR to ensure accuracy.",
+    "source": "Section 285BB, Income Tax Act, 1961"
+  },
+  {
+    "question": "I bought shares for ₹1 lakh and sold them 14 months later for ₹1.5 lakhs. What's the tax?",
+    "answer": "The ₹50,000 profit is a Long-Term Capital Gain (LTCG) since you held the shares for over a year. LTCG on listed equity shares is exempt up to ₹1 lakh per year. As your gain is below this limit, you don't have to pay any tax on it.",
+    "source": "Section 112A, Income Tax Act, 1961"
+  },
+  {
+    "question": "Can I get a tax deduction for interest on an education loan?",
+    "answer": "Yes. Under Section 80E, you can claim a deduction for the full amount of interest paid on an education loan for higher studies. There is no upper limit on the interest amount, and this deduction is available for up to 8 years.",
+    "source": "Section 80E, Income Tax Act, 1961"
+  },
+  {
+    "question": "Are the food coupons my employer gives me taxable?",
+    "answer": "Partially. Meal vouchers are exempt up to ₹50 per meal. For a typical month with 22 working days and two meals, this comes to an exemption of ₹2,200. Any amount you receive above this is taxable as a perquisite and added to your salary.",
+    "source": "Rule 3(7)(iii), Income Tax Rules, 1962"
+  },
+  {
+    "question": "What's the TDS rate for commission payments?",
+    "answer": "Under Section 194H, TDS at a rate of 5% must be deducted on commission or brokerage payments if the total amount paid to a person in a financial year exceeds ₹15,000.",
+    "source": "Section 194H, Income Tax Act, 1961"
+  },
+  {
+    "question": "Is it always mandatory to file an Income Tax Return?",
+    "answer": "It's mandatory if your gross total income is above the basic exemption limit. Additionally, you must file an ITR if you have engaged in high-value transactions, such as depositing over ₹1 crore in a bank account, spending over ₹2 lakhs on foreign travel, or having an electricity bill over ₹1 lakh.",
+    "source": "Seventh Proviso to Section 139(1), Income Tax Act, 1961"
+  },
+  {
+    "question": "What is 'clubbing of income' in simple terms?",
+    "answer": "It means the income of another person (like your spouse or minor child) is added to your income for tax purposes. This typically happens if you transfer an asset to them without receiving proper payment, to prevent tax avoidance.",
+    "source": "Section 60 to 64, Income Tax Act, 1961"
+  },
+  {
+    "question": "Why did I get a 'Defective Return' notice?",
+    "answer": "You'll get a notice for a defective return under Section 139(9) if there are errors or missing information in your ITR, like not filling a mandatory field or a mismatch in data. You are usually given 15 days to correct the defect.",
+    "source": "Section 139(9), Income Tax Act, 1961"
+  },
+  {
+    "question": "Is inheritance taxable?",
+    "answer": "No, there is no inheritance tax in India. Any property or money you receive as inheritance is not taxed at the time of receipt. However, if you later earn income from that asset (like rent) or sell it, that subsequent income will be taxable.",
+    "source": "Section 56(2)(x), Income Tax Act, 1961"
+  },
+  {
+    "question": "Can I get a tax deduction for donating to a political party?",
+    "answer": "Yes. Under Section 80GGC, you can claim a 100% deduction for donations to a registered political party or electoral trust, provided the donation is made through any mode other than cash.",
+    "source": "Section 80GGC, Income Tax Act, 1961"
+  },
+  {
+    "question": "How is agricultural income taxed in India?",
+    "answer": "Income from agriculture is exempt from tax under Section 10(1). However, if your net agricultural income exceeds ₹5,000 and you have other taxable income, it is included for the purpose of calculating your tax rate on the other income, which can result in a higher tax liability.",
+    "source": "Section 10(1), Income Tax Act, 1961"
+  },
+  {
+    "question": "How is the HRA exemption calculated?",
+    "answer": "Your House Rent Allowance (HRA) exemption is the lowest of these three amounts: (1) The actual HRA you received, (2) 50% of your basic salary if you live in a metro city (40% for non-metros), or (3) The actual rent you paid minus 10% of your basic salary.",
+    "source": "Section 10(13A), Income Tax Act, 1961 & Rule 2A"
+  },
+  {
+    "question": "What's the difference between TDS under 194Q and TCS under 206C(1H)?",
+    "answer": "TDS under 194Q applies to a buyer (turnover > ₹10 Cr) on goods purchases over ₹50 lakhs. TCS under 206C(1H) applies to a seller (turnover > ₹10 Cr) on sales over ₹50 lakhs. If both apply to a transaction, the buyer's responsibility to deduct TDS under 194Q takes precedence.",
+    "source": "CBDT Circular No. 13 of 2021"
+  },
+  {
+    "question": "How does the NPS deduction work?",
+    "answer": "You can claim a deduction for your contribution to the National Pension System (NPS) under Section 80CCD(1) (within the ₹1.5 lakh limit of 80C). Crucially, you can also claim an additional, exclusive deduction of up to ₹50,000 under Section 80CCD(1B), which is over and above the 80C limit.",
+    "source": "Section 80CCD(1B), Income Tax Act, 1961"
+  },
+  {
+    "question": "How is income from Futures & Options (F&O) trading taxed?",
+    "answer": "Income from F&O is treated as non-speculative business income. It's added to your total income and taxed at your applicable slab rate. You can also deduct related expenses like brokerage, data charges, and depreciation on your computer.",
+    "source": "Guidance Note on Tax Audit, ICAI"
+  },
+  {
+    "question": "What is a 'deemed resident'?",
+    "answer": "An Indian citizen with an Indian income over ₹15 lakhs is considered a 'deemed resident' if they are not paying taxes in any other country. This rule was introduced to prevent high-net-worth individuals from avoiding taxes by becoming stateless.",
+    "source": "Section 6(1A), Income Tax Act, 1961"
+  },
+  {
+    "question": "What are the tax rules for Sovereign Gold Bonds (SGBs)?",
+    "answer": "The annual interest from SGBs is taxable at your slab rate. However, the biggest benefit is that any capital gains you make when you redeem the bonds on maturity are completely tax-free. If you sell them on an exchange before maturity, normal capital gains tax applies.",
+    "source": "Sovereign Gold Bond Scheme, GOI & RBI"
+  },
+  {
+    "question": "What does a 'scrutiny assessment' notice mean?",
+    "answer": "A scrutiny notice under Section 143(2) means your ITR has been selected for a detailed review by the Income Tax Department. They will examine your claims and reported income to ensure everything is accurate and will likely ask for supporting documents.",
+    "source": "Section 143(2), Income Tax Act, 1961"
+  },
+  {
+    "question": "Can I make a business payment of ₹15,000 in cash?",
+    "answer": "No. For business expenses, if you make a payment over ₹10,000 to a person in a single day in cash, the entire expense is disallowed. This means you can't claim it as a deduction from your profits. You must use banking channels like cheques or online transfers.",
+    "source": "Section 40A(3), Income Tax Act, 1961"
+  },
+  {
+    "question": "How does the Leave Travel Allowance (LTA) tax benefit work?",
+    "answer": "You can claim a tax exemption for travel expenses on a trip within India for yourself and your family. The exemption is limited to the cost of travel (e.g., economy airfare). This benefit can be claimed for two journeys in a block of four calendar years.",
+    "source": "Section 10(5), Income Tax Act, 1961"
+  },
+  {
+    "question": "What is a 'deemed let-out property'?",
+    "answer": "If you own more than one house and use all of them for your own residence, only one can be claimed as 'self-occupied' and be exempt from tax. The other houses are considered 'deemed let-out,' and you must report a notional rental income from them in your ITR.",
+    "source": "Section 23, Income Tax Act, 1961"
+  },
+  {
+    "question": "What is a Double Taxation Avoidance Agreement (DTAA)?",
+    "answer": "A DTAA is a treaty between two countries to ensure that a taxpayer does not have to pay tax on the same income in both countries. It allows you to either get an exemption from tax in one country or claim a credit for the tax paid in one country against your tax liability in the other.",
+    "source": "Section 90, Income Tax Act, 1961"
+  },
+  {
+    "question": "How is the capital gain on a bonus share calculated?",
+    "answer": "The cost of acquisition for a bonus share is always taken as zero. Therefore, when you sell it, the entire sale price becomes your capital gain. The holding period starts from the date the bonus shares were allotted to you.",
+    "source": "Section 55, Income Tax Act, 1961"
+  },
+  {
+    "question": "Can I declare my shop's income at 6% under the presumptive scheme if I only accept UPI?",
+    "answer": "Yes. The presumptive scheme under Section 44AD allows you to declare profits at 6% of your turnover if the receipts are through digital modes like UPI. For cash receipts, the rate is 8%.",
+    "source": "Section 44AD, Income Tax Act, 1961"
+  },
+  {
+    "question": "What is a 'revised return'?",
+    "answer": "If you find a mistake in your original ITR after filing, you can file a 'revised return' under Section 139(5) to correct it. You can do this up to three months before the end of the relevant assessment year.",
+    "source": "Section 139(5), Income Tax Act, 1961"
+  },
+  {
+    "question": "What is the deduction under Section 80DDB for?",
+    "answer": "Section 80DDB allows a deduction for medical expenses for specified critical illnesses like cancer or certain neurological diseases. You can claim up to ₹40,000 (or ₹1,00,000 if the patient is a senior citizen) for treatment for yourself or a dependent.",
+    "source": "Section 80DDB, Income Tax Act, 1961"
+  },
+  {
+    "question": "What happens if I surrender my ULIP policy before 5 years?",
+    "answer": "If you surrender a Unit Linked Insurance Plan (ULIP) before the 5-year lock-in period, the entire amount you receive becomes taxable as income in that year. Also, any tax deductions you claimed under 80C for that policy in previous years will be reversed.",
+    "source": "Section 10(10D), Income Tax Act, 1961"
+  },
+  {
+    "question": "Do I have to deduct TDS when buying a car?",
+    "answer": "No, the buyer doesn't deduct TDS. Instead, the seller has to collect TCS (Tax Collected at Source). The car dealer will collect TCS at 1% if the car's value is over ₹10 lakhs.",
+    "source": "Section 206C(1F), Income Tax Act, 1961"
+  },
+  {
+    "question": "What is the penalty for under-reporting income?",
+    "answer": "The penalty is 50% of the tax payable on the under-reported income. However, if the income was under-reported due to misreporting or fraud, the penalty is much higher at 200% of the tax payable.",
+    "source": "Section 270A, Income Tax Act, 1961"
+  },
+  {
+    "question": "Can I claim depreciation on an asset I sold this year?",
+    "answer": "No. Depreciation can only be claimed on assets that are part of your 'block of assets' at the end of the financial year. If you sell an asset, it is removed from the block, and you cannot claim depreciation on it for that year.",
+    "source": "Section 32, Income Tax Act, 1961"
+  },
+  {
+    "question": "What does Section 43B cover?",
+    "answer": "Section 43B lists certain business expenses that can only be deducted in the year they are actually paid, not when the liability arises. This applies to payments like government taxes, employee bonuses, and interest on loans from banks, ensuring these statutory dues are paid on time.",
+    "source": "Section 43B, Income Tax Act, 1961"
+  },
+
+    {
+      "question": "What is the difference between GSTR‑1 and GSTR‑3B filings?",
+      "answer": "GSTR‑1 is the outward supplies return, where you report all invoices issued during the tax period. It is filed monthly (due 11th of next month) or quarterly for small taxpayers. GSTR‑3B is a summary return of both liabilities and input tax credit (ITC), filed monthly by the 20th of the next month. You must file GSTR‑1 before GSTR‑3B so your ITC data flows correctly.",
+      "source": "https://www.gst.gov.in/"
+    },
+    {
+      "question": "How is the auto‑drafted GSTR‑2B statement used for ITC eligibility?",
+      "answer": "GSTR‑2B is a static, auto‑generated statement of eligible ITC based on suppliers’ GSTR‑1 filings. You should reconcile your purchases against GSTR‑2B each month and claim ITC in your GSTR‑3B only to the extent it appears in GSTR‑2B. Any short‑paid or excess claim must be adjusted in the same return.",
+      "source": "https://www.gst.gov.in/"
+    },
+    {
+      "question": "What happens if I file my GSTR‑3B late?",
+      "answer": "Late filing of GSTR‑3B attracts a fee of ₹50/day under CGST and ₹50/day under SGST, each up to ₹5,000. Interest at 18% p.a. is also payable on the net tax liability from the due date till payment.",
+      "source": "https://www.gst.gov.in/"
+    },
+    {
+      "question": "When should HSN codes be mentioned on invoices?",
+      "answer": "Businesses with turnover above ₹5 crore in the previous financial year must mention 4‑digit HSN codes on all invoices. Those with turnover between ₹1.5 crore and ₹5 crore may use 2‑digit or 4‑digit HSN codes. Below ₹1.5 crore, mentioning HSN codes is optional.",
+      "source": "https://www.gst.gov.in/"
+    },
+    {
+      "question": "What are the invoice rules for B2B vs B2C transactions under GST?",
+      "answer": "In B2B (registered recipients), the supplier must issue a full tax invoice with GSTIN, HSN, etc. In B2C (unregistered recipients), a simplified invoice or bill of supply is allowed and suppliers must report the total under ‘Unregistered’ section in GSTR‑1.",
+      "source": "https://www.gst.gov.in/"
+    },
+    {
+      "question": "If Party A buys from Party B but doesn’t pay GST, should Party B still file GSTR‑1?",
+      "answer": "Yes. GSTR‑1 filing depends on the issuance of an invoice, not payment receipt. Party B must report all invoices issued during the period in their GSTR‑1, even if GST wasn’t paid by the buyer.",
+      "source": "https://www.gst.gov.in/"
+    },
+    {
+      "question": "What is the current TDS rate on rent above ₹50,000/month?",
+      "answer": "Under section 194‑I of the Income‑Tax Act, TDS on rent for property exceeding ₹50,000/month is 10% of the rent. The tenant must deduct this and deposit it with the government by the 7th of the next month.",
+      "source": "https://www.incometax.gov.in/"
+    },
+    {
+      "question": "What are the TDS limits and rates for contractor payments?",
+      "answer": "Per section 194C, TDS is 1% for contracts with individuals/HUF and 2% for others if payment exceeds ₹30,000 per contract or ₹1,00,000 in aggregate during the year.",
+      "source": "https://www.incometax.gov.in/"
+    },
+    {
+      "question": "Do I need PAN to avoid higher TDS deduction?",
+      "answer": "Yes. Under section 206AA, if the payee doesn’t provide PAN, TDS is deducted at the higher 20% rate. This applies to salaries, rent, interest, professional fees, contractor payments, etc.",
+      "source": "https://www.incometax.gov.in/"
+    },
+    {
+      "question": "How much can I claim under 80C deductions?",
+      "answer": "Under section 80C, you can claim up to ₹1.5 lakh/year for investments like PPF, ELSS, life insurance premiums, principal repayment of home loans, tuition fees for children, etc.",
+      "source": "https://www.incometax.gov.in/"
+    },
+    {
+      "question": "Can freelancers use presumptive taxation under Income‑Tax?",
+      "answer": "Yes. Under section 44ADA, professionals with receipts up to ₹50 lakh can opt for 50% of gross receipts as taxable income. Otherwise, they must maintain detailed books and claim actual expenses under section 37.",
+      "source": "https://www.incometax.gov.in/"
+    },
+    {
+      "question": "If I don’t file GST returns, what consequences follow?",
+      "answer": "If you miss GST return deadlines, you’ll face late fees, interest on unpaid tax, and if prolonged, your GST registration may be cancelled and recovery proceedings initiated.",
+      "source": "https://www.gst.gov.in/"
+    },
+  
+  
+ 
+  
+    {
+      "question": "What is GST?",
+      "answer": "GST stands for Goods and Services Tax. It is a single, destination based tax on the supply of goods and services in India, introduced on July 1, 2017. It replaced multiple indirect taxes such as VAT, service tax, and excise duty.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What does GST stand for?",
+      "answer": "GST stands for Goods and Services Tax. It is a comprehensive, destination based indirect tax that is levied on the supply of goods and services in India.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "Explain GST in simple terms.",
+      "answer": "GST is a single indirect tax that combines many central and state taxes into one. It is charged at every step of the supply chain and is meant to make taxation simpler and more transparent.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is Goods and Services Tax (GST)?",
+      "answer": "Goods and Services Tax (GST) is a unified tax that applies to the supply of goods and services across India. It was implemented on July 1, 2017 to simplify the indirect tax structure.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What are the types of GST in India?",
+      "answer": "There are four components:\n\n- **CGST** (Central GST): Levied on intrastate supplies, collected by the Centre\n- **SGST/UTGST** (State/Union Territory GST): Levied on intrastate supplies, collected by the State/UT\n- **IGST** (Integrated GST): Levied on interstate supplies, collected by the Centre and shared with States\n- **CESS**: Levied on specific goods (e.g., tobacco) to fund compensation to States",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the difference between CGST, SGST, and IGST?",
+      "answer": "CGST (Central GST) is collected by the central government on intrastate sales; SGST (State GST) is collected by the state government on intrastate sales; IGST (Integrated GST) is collected by the central government on interstate sales and is shared with states.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate structure in India?",
+      "answer": "GST rates are categorized into four main slabs: 5%, 12%, 18%, and 28%. Some goods/services may also attract a zero rate or a special rate (e.g., CESS on luxury items).",
+      "source": "GST.pdf"
+    },
+    
+    
+    {
+      "question": "Who must register under GST?",
+      "answer": "Any business with aggregate turnover above ₹40 lakhs (₹20 lakhs for special category States) in a financial year must register. Services‑only businesses register if turnover exceeds ₹20 lakhs (₹10 lakhs in special States).",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST Composition Scheme?",
+      "answer": "A simplified scheme for small taxpayers (turnover up to ₹1.5 crores) to pay a fixed percentage of turnover as tax (e.g. 1% for manufacturers) and file quarterly returns; they can’t claim Input Tax Credit.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is Input Tax Credit (ITC)?",
+      "answer": "ITC lets a registered taxpayer reduce the tax paid on purchases (inputs) from their tax liability on sales (outputs), provided they have a valid tax invoice and the supplier has paid the tax.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What are the main GST return forms?",
+      "answer": "GSTR‑1: Outward supplies (sales) details, filed monthly/quarterly; GSTR‑3B: Summary return of liabilities and ITC, filed monthly; GSTR‑9: Annual return summarizing all transactions.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "When are GSTR‑1 and GSTR‑3B due?",
+      "answer": "GSTR‑1: 11th of the next month (or quarter for small taxpayers); GSTR‑3B: 20th of the next month.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is an HSN code?",
+      "answer": "Harmonized System of Nomenclature (HSN) is an internationally recognized classification that assigns 4‑ to 8‑digit codes to goods to harmonize tax treatment across borders.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is a Tax Invoice under GST?",
+      "answer": "A GST tax invoice is a document issued by a registered supplier containing details like supplier/recipient GSTIN, invoice number & date, HSN/SAC codes, taxable value, and tax breakup (CGST/SGST/IGST).",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the Reverse Charge Mechanism?",
+      "answer": "Under reverse charge, the recipient, instead of the supplier, must pay GST on specified supplies (e.g. services from an unregistered person).",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the penalty for late GST return filing?",
+      "answer": "For GSTR‑3B, late fee is ₹50/day per Act (CGST+SGST) up to ₹5,000 total. For GSTR‑1, ₹200/day under CGST+SGST up to ₹10,000.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is e‑invoicing under GST?",
+      "answer": "Businesses with turnover > ₹10 crores must generate invoices through the Invoice Registration Portal (IRP) so that each invoice has a unique Invoice Reference Number (IRN) and QR code.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "How do I cancel my GST registration?",
+      "answer": "A taxpayer can apply for voluntary cancellation in FORM GST REG‑16 if they stop business; the proper officer cancels in FORM GST REG‑19 after verification.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What happens if I don’t file GST returns?",
+      "answer": "Non‑filing attracts late fees and interest; prolonged non‑compliance can lead to cancellation of GST registration and recovery proceedings.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "How can I check my GSTIN status?",
+      "answer": "Go to https://www.gst.gov.in/ → Search Taxpayer → Enter the 15‑digit GSTIN to view registration status and return filing history.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST Council?",
+      "answer": "The GST Council is a constitutional body that makes recommendations on GST rates, exemptions, and procedures. It consists of the Union Finance Minister and State Finance Ministers.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the role of the GST Network (GSTN)?",
+      "answer": "Here’s a list:\n\n- Item 1\n- Item 2\n- Item 3",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on essential goods?",
+      "answer": "Essential goods like food grains, fresh vegetables, and fruits are generally exempt from GST or attract a very low rate (0% to 5%).",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "How do I file a complaint against a GST officer?",
+      "answer": "You can file a complaint online at the GST portal or approach the jurisdictional GST officer with your grievance.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the process for claiming a GST refund?",
+      "answer": "To claim a GST refund, file FORM GST RFD‑01 online, provide necessary documents, and submit it to the jurisdictional GST officer for processing.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on luxury goods?",
+      "answer": "Luxury goods attract higher GST rates, typically 18% or 28%, depending on the item. Some luxury items may also attract an additional cess.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on services?",
+      "answer": "Most services attract a GST rate of 18%, but some services may be taxed at 5%, 12%, or 28% depending on the nature of the service.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on imported goods?",
+      "answer": "Imported goods are subject to IGST at the same rates as domestic goods, along with customs duties. The IGST paid can be claimed as Input Tax Credit.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "How do I update my GST registration details?",
+      "answer": "To update GST registration details, log in to the GST portal, go to 'Services' → 'Registration' → 'Amendment of Registration', and submit the required changes.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on e-commerce transactions?",
+      "answer": "E-commerce transactions are subject to GST at the applicable rates for goods/services sold through the platform. E-commerce operators must collect TCS at 1% on net taxable supplies.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on digital services?",
+      "answer": "Digital services like online streaming, software downloads, and e-books are generally taxed at 18% under GST.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on educational services?",
+      "answer": "Educational services provided by recognized institutions are generally exempt from GST. However, coaching and training services may attract 18% GST.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "How do I appeal against a GST assessment order?",
+      "answer": "To appeal against a GST assessment order, file FORM GST APL‑01 within 3 months of receiving the order, along with the required fees and documents.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on healthcare services?",
+      "answer": "Healthcare services provided by hospitals and clinics are generally exempt from GST. However, certain cosmetic and non-essential medical services may attract GST.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on real estate transactions?",
+      "answer": "Real estate transactions attract GST at 1% for affordable housing and 5% for other residential properties. Commercial properties are taxed at 12% or 18% depending on the nature of the transaction.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on financial services?",
+      "answer": "Financial services like banking, insurance, and mutual funds are generally taxed at 18% under GST. However, certain specific services may have different rates.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on transportation services?",
+      "answer": "Transportation services, including logistics and freight, are generally taxed at 5% under GST. However, certain specialized transport services may attract different rates.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on restaurant services?",
+      "answer": "Restaurant services attract 5% GST without input tax credit (ITC) for non-air-conditioned restaurants, and 18% for air-conditioned restaurants. Alcoholic beverages are not covered under GST.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on mobile phones?",
+      "answer": "Mobile phones attract a GST rate of 18%. However, certain components and accessories may have different rates.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on gold and precious metals?",
+      "answer": "Gold and precious metals attract a GST rate of 3%. However, gold jewelry may attract a higher rate depending on the design and craftsmanship.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on petroleum products?",
+      "answer": "Petroleum products like petrol, diesel, and natural gas are currently outside the purview of GST and are taxed separately by the central and state governments.",
+      "source": "GST.pdf"
+    },
+    {
+      "question": "What is the GST rate on alcoholic beverages?",
+      "answer": "Alcoholic beverages for human consumption are not covered under GST and are taxed by the states at their own rates. However, alcoholic beverages for industrial use may attract GST at 18%.",
+      "source": "GST.pdf" 
+    },
+  {
+    "question": "What is the GST rate on solar power systems?",
+    "answer": "Solar power systems attract a GST rate of 5% for solar panels and 18% for inverters and batteries.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on electric vehicles?",
+    "answer": "Electric vehicles attract a reduced GST rate of 5% to promote their adoption. Charging stations for electric vehicles also attract a GST rate of 5%.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services?",
+    "answer": "Construction services for residential properties attract a GST rate of 1% for affordable housing and 5% for other residential properties. Commercial construction services are taxed at 12% or 18%.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on software and IT services?",
+    "answer": "Software and IT services are generally taxed at 18% under GST. However, certain specific software products may have different rates.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on advertising services?",
+    "answer": "Advertising services, including digital marketing and media buying, are generally taxed at 18% under GST.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction materials?",
+    "answer": "Construction materials like cement, steel, and bricks attract a GST rate of 28%. However, certain eco-friendly materials may have lower rates.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on beauty and wellness services?",
+    "answer": "Beauty and wellness services, including salons and spas, are generally taxed at 18% under GST.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on travel and tourism services?",
+    "answer": "Travel and tourism services, including hotel accommodations and tour packages, are generally taxed at 12% or 18% depending on the nature of the service.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on agricultural products?",
+    "answer": "Agricultural products like fresh fruits, vegetables, and grains are generally exempt from GST or attract a very low rate (0% to 5%).",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for government projects?",
+    "answer": "Construction services for government projects may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on used vehicles?",
+    "answer": "Used vehicles attract a GST rate of 12% on the transaction value, provided the vehicle is sold by a registered dealer. If sold by an unregistered person, the applicable rate is 18%.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on scrap materials?",
+    "answer": "Scrap materials like metal scrap and paper scrap attract a GST rate of 18%. However, certain specific types of scrap may have different rates.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on packaging materials?",
+    "answer": "Packaging materials like plastic containers, cardboard boxes, and glass bottles generally attract a GST rate of 18%. However, certain eco-friendly packaging materials may have lower rates.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on mobile accessories?",
+    "answer": "Mobile accessories like chargers, earphones, and cases generally attract a GST rate of 18%. However, certain specific accessories may have different rates.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction equipment?",
+    "answer": "Construction equipment like excavators, cranes, and bulldozers generally attract a GST rate of 28%. However, certain eco-friendly equipment may have lower rates.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on renewable energy products?",
+    "answer": "Renewable energy products like solar panels and wind turbines generally attract a GST rate of 5% to promote their adoption.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on financial services like loans and insurance?",
+    "answer": "Financial services like loans and insurance are generally taxed at 18% under GST. However, certain specific financial products may have different rates.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for residential properties?",
+    "answer": "Construction services for residential properties attract a GST rate of 1% for affordable housing and 5% for other residential properties.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for commercial properties?",
+    "answer": "Construction services for commercial properties are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for government projects?",
+    "answer": "Construction services for government projects may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for infrastructure projects?",
+    "answer": "Construction services for infrastructure projects like roads, bridges, and airports generally attract a GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for public sector undertakings (PSUs)?",
+    "answer": "Construction services provided to PSUs may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for private sector projects?",
+    "answer": "Construction services for private sector projects are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for residential complexes?",
+    "answer": "Construction services for residential complexes attract a GST rate of 1% for affordable housing and 5% for other residential properties.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for commercial complexes?",
+    "answer": "Construction services for commercial complexes are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for industrial projects?",
+    "answer": "Construction services for industrial projects are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for educational institutions?",
+    "answer": "Construction services for educational institutions may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for healthcare facilities?",
+    "answer": "Construction services for healthcare facilities may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for hospitality projects?",
+    "answer": "Construction services for hospitality projects like hotels and resorts are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for retail projects?",
+    "answer": "Construction services for retail projects are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for entertainment projects?",
+    "answer": "Construction services for entertainment projects like multiplexes and amusement parks are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for sports facilities?",
+    "answer": "Construction services for sports facilities may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  {
+    "question": "What is the GST rate on construction services for religious buildings?",
+    "answer": "Construction services for religious buildings may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
+    "source": "GST.pdf"
+  },
+  
+    {
+      "question": "What is the time limit to claim Input Tax Credit (ITC) for an invoice issued in the financial year 2023-24?",
+      "answer": "For any invoice or debit note of a financial year, the ITC can be claimed by the 30th of November of the following financial year, or the date of filing the annual return (GSTR-9), whichever is earlier. For FY 2023-24, the deadline is November 30, 2024.",
+      "source": "Section 16(4), CGST Act, 2017"
+    },
+    {
+      "question": "My supplier filed their GSTR-1 late. My GSTR-2B for September doesn't show the invoice, but I have the physical invoice. Can I claim ITC in my September GSTR-3B?",
+      "answer": "As per Rule 36(4) of the CGST Rules, ITC can only be claimed if the details of the invoice have been furnished by the supplier in their GSTR-1 and subsequently appear in your GSTR-2B. You must wait for the supplier to file their GSTR-1 and for the credit to appear in a subsequent month's GSTR-2B before you can claim it.",
+      "source": "Rule 36(4), CGST Rules, 2017"
+    },
+    {
+      "question": "I am a business owner providing B2C services. Do I need to mention HSN codes on my invoices?",
+      "answer": "For B2C (Business to Consumer) supplies, mentioning HSN codes is optional for businesses with an aggregate annual turnover of up to ₹5 crores. However, for businesses with a turnover above ₹5 crores, it is mandatory to provide a 4-digit HSN code.",
+      "source": "Notification No. 78/2020 – Central Tax"
+    },
+    {
+      "question": "If Party A bought from Party B and didn’t pay the GST amount, should Party B still file GSTR-1?",
+      "answer": "Yes, absolutely. The liability to pay GST arises at the time of supply and is not dependent on the receipt of payment from the customer. Party B must report the invoice in their GSTR-1 for the relevant tax period and pay the corresponding GST to the government from their own funds.",
+      "source": "Section 12 & 13, CGST Act, 2017"
+    },
+    {
+      "question": "What is the difference between TDS and TCS?",
+      "answer": "TDS (Tax Deducted at Source) is tax deducted by the payer from payments made for specified services (like salary, rent, professional fees). TCS (Tax Collected at Source) is tax collected by the seller from the buyer at the time of sale of specific goods (like vehicles, scrap, minerals). TDS is on expenses, while TCS is on income/sales.",
+      "source": "Income Tax Act, 1961"
+    },
+    {
+      "question": "I am paying a professional fee of ₹25,000 to a consultant. Do I need to deduct TDS?",
+      "answer": "No. Under Section 194J, TDS on professional fees is required only if the total payment to a single person in a financial year exceeds ₹30,000. Since the payment is below this threshold, TDS deduction is not required, assuming no other payments are made to the same consultant in that year.",
+      "source": "Section 194J, Income Tax Act, 1961"
+    },
+    {
+      "question": "My company's turnover is ₹12 crores and I sell goods worth ₹60 lakhs to a single customer. Is TCS applicable?",
+      "answer": "Yes. Under Section 206C(1H), if your business turnover in the preceding financial year exceeded ₹10 crores, you are required to collect TCS at 0.1% on the sale consideration received from a single buyer in excess of ₹50 lakhs. In this case, you must collect TCS on ₹10 lakhs (₹60 lakhs - ₹50 lakhs).",
+      "source": "Section 206C(1H), Income Tax Act, 1961"
+    },
+    {
+      "question": "Can I claim a deduction for both my home loan principal and the interest paid?",
+      "answer": "Yes. The principal repayment portion of your home loan EMI is eligible for deduction under Section 80C, up to the overall limit of ₹1,50,000. The interest portion of the EMI can be claimed as a deduction under Section 24(b), up to ₹2,00,000 for a self-occupied property.",
+      "source": "Section 80C & Section 24, Income Tax Act, 1961"
+    },
+    {
+      "question": "What happens if a customer returns goods for which I already filed GSTR-1 and paid tax?",
+      "answer": "When a customer returns goods (sales return), you should issue a Credit Note to them. The details of this Credit Note must be declared in the GSTR-1 of the month it was issued. This will automatically reduce your total outward tax liability for that month in your GSTR-3B.",
+      "source": "Section 34, CGST Act, 2017"
+    },
+    {
+      "question": "Is it mandatory for an individual paying office rent of ₹60,000 per month to get a TAN for deducting TDS?",
+      "answer": "No. An individual paying rent over ₹50,000 per month is required to deduct TDS under Section 194-IB. However, they are not required to obtain a Tax Deduction and Collection Account Number (TAN). They can deduct the tax and remit it to the government using their PAN.",
+      "source": "Proviso to Section 203A, Income Tax Act, 1961"
+    },
+    {
+      "question": "What is the Reverse Charge Mechanism (RCM) under GST?",
+      "answer": "Typically, the supplier of goods or services pays GST. Under the Reverse Charge Mechanism, the liability to pay GST is shifted to the recipient of the goods or services. This applies to specific supplies, such as services from a Goods Transport Agency (GTA) or legal services from an advocate.",
+      "source": "Section 9(3), CGST Act, 2017"
+    },
+    {
+      "question": "What is Form 26AS and why is it important?",
+      "answer": "Form 26AS is an annual consolidated tax statement, often called a tax passbook. It contains details of all taxes deducted or collected on your behalf (TDS/TCS), advance tax paid, and self-assessment tax paid. It is crucial for verifying that the tax deducted from your income has been deposited with the government before you file your income tax return.",
+      "source": "Income Tax Department Portal"
+    },
+    {
+      "question": "What is the due date for filing GSTR-3B for the month of September?",
+      "answer": "The due date for filing GSTR-3B for the month of September is the 20th of October. If you file after this date, you will incur a late fee and interest on the tax payable.",
+      "source": "GST Portal"
+    },
+    {
+      "question": "Can I claim Input Tax Credit (ITC) on capital goods purchased in the previous financial year?",
+      "answer": "Yes, you can claim ITC on capital goods purchased in the previous financial year, provided you have a valid tax invoice and the goods are used in your business. The ITC must be claimed in the return for the month in which the capital goods were received.",
+      "source": "Section 16(1), CGST Act, 2017"
+    },
+    {
+      "question": "What is the penalty for not filing GSTR-1 on time?",
+      "answer": "The penalty for not filing GSTR-1 on time is ₹200 per day of delay (₹100 under CGST and ₹100 under SGST), subject to a maximum of ₹5,000. Additionally, interest may be charged on any tax due.",
+      "source": "Section 47, CGST Act, 2017"
+    },
+    {
+      "question": "How do I check my GST registration status?",
+      "answer": "You can check your GST registration status by visiting the GST portal (https://www.gst.gov.in/), navigating to 'Search Taxpayer', and entering your GSTIN or PAN. This will show your registration details and status.",
+      "source": "GST Portal"
+    },
+    {
+      "question": "What is the process to cancel my GST registration?",
+      "answer": "To cancel your GST registration, log in to the GST portal, go to 'Services' → 'Registration' → 'Application for Cancellation of Registration', fill out FORM GST REG-16, and submit it along with required documents. The proper officer will verify and process your cancellation request.",
+      "source": "GST Portal"
+    },
+      {
+        "question": "What is the primary difference between B2B and B2C invoices under GST?",
+        "answer": "B2B (Business-to-Business) invoices are issued to another registered GST entity and must include the recipient's GSTIN. ITC can be claimed on these. B2C (Business-to-Consumer) invoices are issued to unregistered customers. For interstate B2C sales over ₹2.5 lakhs, the invoice must be generated, otherwise, a consolidated summary is sufficient for intrastate sales.",
+        "source": "Rule 46, CGST Rules, 2017"
+      },
+      {
+        "question": "If I purchase goods from an unregistered dealer, do I have to pay GST under RCM?",
+        "answer": "The provision for paying GST on a reverse charge basis for purchases from unregistered persons under Section 9(4) has been suspended. RCM is currently applicable only on specified goods and services like those from a Goods Transport Agency, advocate services, etc., or on purchases made by a registered promoter for real estate projects.",
+        "source": "Notification No. 07/2019-Central Tax (Rate)"
+      },
+      {
+        "question": "What is a 'Composite Supply' under GST? Give an example.",
+        "answer": "A composite supply consists of two or more supplies that are naturally bundled and supplied together in the ordinary course of business, where one is a principal supply. The entire supply is taxed at the rate of the principal supply. Example: When you buy a television, the warranty and installation are supplied along with it. The TV is the principal supply, and its GST rate applies to the entire transaction.",
+        "source": "Section 2(30), CGST Act, 2017"
+      },
+      {
+        "question": "What is 'Blocked Credit' under GST?",
+        "answer": "Blocked credit refers to the Input Tax Credit (ITC) on certain goods and services that cannot be claimed, even if they are used for business purposes. This includes items like motor vehicles (with exceptions), food and beverages, club memberships, and goods lost, stolen, or destroyed.",
+        "source": "Section 17(5), CGST Act, 2017"
+      },
+      {
+        "question": "When is an E-Way Bill required?",
+        "answer": "An E-Way Bill is mandatory for the movement of goods where the consignment value exceeds ₹50,000. It must be generated on the E-Way Bill portal before the movement of goods commences. This rule applies to both interstate and intrastate movements, though some states have different limits for intrastate movements.",
+        "source": "Rule 138, CGST Rules, 2017"
+      },
+      {
+        "question": "I run a small bakery with a turnover of ₹35 lakhs. Do I need GST registration?",
+        "answer": "The threshold for GST registration for suppliers of goods is ₹40 lakhs in most states. Since your turnover is below this limit, you are not required to register for GST. However, this threshold is ₹20 lakhs for service providers and for specified category states.",
+        "source": "Section 22, CGST Act, 2017"
+      },
+      {
+        "question": "What is the QRMP scheme under GST?",
+        "answer": "The QRMP (Quarterly Return Monthly Payment) scheme is for small taxpayers with an aggregate annual turnover of up to ₹5 crores. It allows them to file their GSTR-1 and GSTR-3B on a quarterly basis, while having to pay their tax liability on a monthly basis through a simple challan.",
+        "source": "CBIC GST Policy Wing Circulars"
+      },
+      {
+        "question": "Can I claim ITC on an invoice that is one year old?",
+        "answer": "No. The time limit to claim ITC for an invoice is the 30th of November of the next financial year or the date of filing the annual return, whichever is earlier. You cannot claim ITC on an invoice that is more than a year old if this deadline has passed.",
+        "source": "Section 16(4), CGST Act, 2017"
+      },
+      {
+        "question": "If a transaction is declared as a 'Zero-Rated Supply', does it mean the GST rate is 0%?",
+        "answer": "No. A zero-rated supply means the output supply is exempt from GST, but the supplier can claim a refund of the ITC paid on inputs used to make that supply. This typically applies to exports and supplies to SEZ developers/units. This is different from a 'Nil' rated supply, where the tax rate is 0% and no ITC can be claimed.",
+        "source": "Section 16, IGST Act, 2017"
+      },
+      {
+        "question": "What is the 'Place of Supply' for services related to immovable property?",
+        "answer": "For services directly related to immovable property, such as those provided by architects, interior decorators, or real estate agents, the place of supply is the location where the immovable property is situated.",
+        "source": "Section 12(3), IGST Act, 2017"
+      },
+      {
+        "question": "My business provides both taxable and exempt supplies. How do I calculate my eligible ITC?",
+        "answer": "You must reverse the ITC attributable to the exempt supplies. You can claim full ITC on inputs used exclusively for taxable supplies, no ITC on inputs for exempt supplies, and for common inputs, the ITC must be calculated proportionally based on the turnover of taxable supplies to the total turnover.",
+        "source": "Rule 42, CGST Rules, 2017"
+      },
+      {
+        "question": "Is GST applicable on the director's remuneration?",
+        "answer": "If the director is an employee of the company and the payment is treated as 'salary' on which TDS is deducted under Section 192 of the Income Tax Act, then no GST is applicable. However, if the remuneration is paid as professional fees to a non-executive director (TDS under 194J), then GST is payable by the company under the Reverse Charge Mechanism.",
+        "source": "CBIC Circular No. 140/10/2020-GST"
+      },
+      {
+        "question": "What is the purpose of GSTR-9, the Annual Return?",
+        "answer": "GSTR-9 is an annual consolidation of all the monthly/quarterly returns (GSTR-1 and GSTR-3B) filed during a financial year. It is a comprehensive summary of outward and inward supplies, taxes paid, and ITC claimed. It is mandatory for taxpayers with an aggregate annual turnover above ₹2 crores.",
+        "source": "Section 44, CGST Act, 2017"
+      },
+      {
+        "question": "I am a service provider in Delhi, providing services to a client in California, USA. What tax do I charge?",
+        "answer": "This is considered an 'export of services'. Exports are treated as zero-rated supplies under GST. You can export the service without charging any tax (IGST) by furnishing a Letter of Undertaking (LUT), and you can still claim a refund of the ITC accumulated on your inputs.",
+        "source": "Section 16, IGST Act, 2017"
+      },
+      {
+        "question": "My company forgot to pay GST for a month. What are the interest and penalty implications?",
+        "answer": "For delayed payment of GST, you are liable to pay interest at 18% per annum on the outstanding tax amount. Additionally, a late fee for filing the GSTR-3B return is levied, which is ₹50 per day (₹20 for nil returns), subject to a maximum cap based on turnover.",
+        "source": "Section 50 & Section 47, CGST Act, 2017"
+      },
+      {
+        "question": "What is an e-invoice and who is it applicable to?",
+        "answer": "E-invoicing is a system where B2B invoices are electronically authenticated by the GST Network (GSTN) for further use on the common GST portal. It is mandatory for registered taxpayers with an aggregate annual turnover exceeding ₹5 crores.",
+        "source": "Notification No. 10/2023-Central Tax"
+      },
+      {
+        "question": "Can ITC be claimed on capital goods in one go?",
+        "answer": "Yes, unlike the previous tax regime, under GST, you can claim the full Input Tax Credit on capital goods in the same month they are received and accounted for in your books, provided all conditions under Section 16 are met.",
+        "source": "Section 16, CGST Act, 2017"
+      },
+      {
+        "question": "What is the GST rate on under-construction property?",
+        "answer": "The GST rate for under-construction residential properties is 5% without ITC for the builder. For affordable housing projects, the rate is 1% without ITC. GST is not applicable on the sale of completed properties where the completion certificate has been issued.",
+        "source": "GST Council Meeting Recommendations"
+      },
+      {
+        "question": "What is the validity of an E-Way Bill?",
+        "answer": "The validity of an E-Way Bill depends on the distance. For regular cargo, the validity is 1 day for every 200 km or part thereof. For over-dimensional cargo, it is 1 day for every 20 km or part thereof. The validity period starts from the time the bill is generated.",
+        "source": "Rule 138(10), CGST Rules, 2017"
+      },
+      {
+        "question": "A customer paid me an advance for goods. When is the GST liability due?",
+        "answer": "For the supply of goods, GST is payable only at the time of issuing the invoice. The 'time of supply' is not triggered on receipt of an advance payment for goods. However, for services, GST is payable on receipt of advance.",
+        "source": "Notification No. 66/2017-Central Tax"
+      },
+      {
+        "question": "What is the difference between the Old Tax Regime and the New Tax Regime for individuals?",
+        "answer": "The Old Tax Regime allows taxpayers to claim various deductions and exemptions like those under Section 80C, 80D, HRA, etc. The New Tax Regime (default regime from FY 2023-24) offers lower slab rates but does not allow most of the common deductions and exemptions.",
+        "source": "Section 115BAC, Income Tax Act, 1961"
+      },
+      {
+        "question": "I am a salaried employee. Can I opt for the presumptive taxation scheme under Section 44AD?",
+        "answer": "No. The presumptive taxation scheme under Section 44AD is only for eligible businesses. It is not applicable to income from salary. A person having salary income and also running an eligible business can opt for this scheme only for their business income.",
+        "source": "Section 44AD, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the TDS rate on winnings from online games?",
+        "answer": "TDS at a rate of 30% is applicable on the net winnings from any online game. The deduction must be made at the time of withdrawal or at the end of the financial year. No threshold limit of ₹10,000 applies to online games.",
+        "source": "Section 194BA, Income Tax Act, 1961"
+      },
+      {
+        "question": "I sold a residential property after holding it for 5 years. Is the profit taxable?",
+        "answer": "Yes. The profit from selling a property held for more than 24 months is a Long-Term Capital Gain (LTCG). It is taxed at 20% after applying indexation benefits. You can claim an exemption from this tax by reinvesting the capital gains in another residential property under Section 54 or in specified bonds under Section 54EC.",
+        "source": "Section 48 & Section 54, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the maximum amount I can deposit in my PPF account to claim an 80C deduction?",
+        "answer": "You can deposit a maximum of ₹1,50,000 in a Public Provident Fund (PPF) account in a financial year. The entire amount deposited is eligible for deduction under Section 80C.",
+        "source": "Section 80C, Income Tax Act, 1961"
+      },
+      {
+        "question": "My total income is ₹6.5 lakhs. Do I have to pay any tax under the New Tax Regime?",
+        "answer": "No. Although your income is above the basic exemption limit, if your net taxable income is up to ₹7 lakhs, you are eligible for a full tax rebate under Section 87A in the New Tax Regime. This makes your effective tax liability zero.",
+        "source": "Section 87A, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the due date for paying advance tax?",
+        "answer": "For individuals and corporates, advance tax is payable in four installments: 15% by June 15, 45% by September 15, 75% by December 15, and 100% by March 15 of the financial year. It is applicable if your estimated tax liability for the year is ₹10,000 or more.",
+        "source": "Section 211, Income Tax Act, 1961"
+      },
+      {
+        "question": "I received a gift of ₹1 lakh from my friend on my birthday. Is it taxable?",
+        "answer": "Yes. Any sum of money received as a gift from a person other than a specified relative is taxable if the aggregate value during the year exceeds ₹50,000. The entire ₹1 lakh would be taxed under the head 'Income from Other Sources'. Gifts from relatives like parents, spouse, or siblings are fully exempt.",
+        "source": "Section 56(2)(x), Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the difference between Form 16 and Form 16A?",
+        "answer": "Form 16 is a TDS certificate issued by an employer to an employee, providing details of the salary paid and tax deducted. Form 16A is a TDS certificate for tax deducted on income other than salary, such as interest on fixed deposits, professional fees, or rent.",
+        "source": "Income Tax Rules, 1962"
+      },
+      {
+        "question": "Can I claim a deduction for health insurance premiums paid for my parents?",
+        "answer": "Yes. Under Section 80D, you can claim a deduction for health insurance premiums paid for your parents. The limit is ₹25,000 if they are below 60 years of age, and up to ₹50,000 if they are senior citizens.",
+        "source": "Section 80D, Income Tax Act, 1961"
+      },
+      {
+        "question": "My bank deducted TDS on my savings account interest. Why?",
+        "answer": "Banks do not deduct TDS on savings account interest. TDS is deducted on interest from Fixed Deposits or Recurring Deposits if the interest income exceeds ₹40,000 in a financial year for individuals (₹50,000 for senior citizens). You might be confusing savings interest with FD interest.",
+        "source": "Section 194A, Income Tax Act, 1961"
+      },
+      {
+        "question": "Which ITR form should a salaried individual with capital gains file?",
+        "answer": "A salaried individual who also has income from capital gains (from selling shares or property) must file ITR-2. ITR-1 (Sahaj) can only be filed by salaried individuals with income up to ₹50 lakhs and having only one house property and agricultural income up to ₹5,000. It cannot be used if there is capital gains income.",
+        "source": "Income Tax Department Portal FAQs"
+      },
+      {
+        "question": "What is the benefit of filing an updated return (ITR-U)?",
+        "answer": "ITR-U allows taxpayers to update their returns to correct errors or omissions or to declare income they missed reporting in their original return. It can be filed within two years from the end of the relevant assessment year, but it requires payment of the due tax along with an additional tax of 25% or 50% of the aggregate of tax and interest.",
+        "source": "Section 139(8A), Income Tax Act, 1961"
+      },
+      {
+        "question": "I am a doctor running my own clinic. Can I use the presumptive scheme under Section 44ADA?",
+        "answer": "Yes. As a medical professional, you are eligible to opt for the presumptive taxation scheme under Section 44ADA, provided your gross annual receipts are up to ₹75 lakhs (new limit from FY 2023-24, provided cash receipts are up to 5%). Under this scheme, 50% of your gross receipts are considered your taxable income.",
+        "source": "Section 44ADA, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the purpose of the Annual Information Statement (AIS)?",
+        "answer": "The AIS provides a comprehensive view of information available with the Income Tax Department for a taxpayer. It includes details of financial transactions like interest, dividends, securities transactions, mutual fund transactions, and foreign remittances, which are reported by various entities. It helps taxpayers in filing their returns accurately.",
+        "source": "CBDT Circulars"
+      },
+      {
+        "question": "I bought shares for ₹1 lakh and sold them after 14 months for ₹1.5 lakhs. What is my tax liability?",
+        "answer": "Since the shares (assuming listed equity shares) were held for more than 12 months, the gain is a Long-Term Capital Gain (LTCG) of ₹50,000. LTCG from listed equity shares is exempt up to ₹1 lakh in a financial year. As your gain is below this limit, your tax liability on this transaction is zero.",
+        "source": "Section 112A, Income Tax Act, 1961"
+      },
+      {
+        "question": "Is interest earned on an education loan eligible for a tax deduction?",
+        "answer": "Yes. Under Section 80E, you can claim a deduction for the entire interest amount paid on an education loan taken for higher education for yourself, your spouse, or your children. There is no upper limit on the interest amount, and the deduction is available for a maximum of 8 years.",
+        "source": "Section 80E, Income Tax Act, 1961"
+      },
+      {
+        "question": "My employer provides me with food coupons worth ₹3,000 per month. Is this taxable?",
+        "answer": "Food coupons or meal vouchers provided by an employer are exempt from tax up to ₹50 per meal. Assuming 22 working days and two meals a day, the exempt amount would be ₹2,200 per month (22 * 2 * 50). The balance amount of ₹800 per month would be taxable as a perquisite and added to your salary.",
+        "source": "Rule 3(7)(iii), Income Tax Rules, 1962"
+      },
+      {
+        "question": "What is the TDS rate on commission or brokerage?",
+        "answer": "TDS on commission or brokerage under Section 194H is deductible at a rate of 5% if the aggregate amount of such payments to a person exceeds ₹15,000 in a financial year. No surcharge or cess is added to this rate.",
+        "source": "Section 194H, Income Tax Act, 1961"
+      },
+      {
+        "question": "When is it mandatory to file an Income Tax Return?",
+        "answer": "It is mandatory to file an ITR if your gross total income (before deductions) exceeds the basic exemption limit. It is also mandatory in certain other cases, such as if you have deposited more than ₹1 crore in bank accounts, incurred foreign travel expenses over ₹2 lakhs, or paid an electricity bill over ₹1 lakh in the financial year.",
+        "source": "Section 139(1), Income Tax Act, 1961"
+      },
+      {
+        "question": "What is 'clubbing of income'?",
+        "answer": "Clubbing of income means including the income of another person (like a spouse or minor child) in a taxpayer's total income for tax calculation. For example, if you transfer an income-generating asset to your spouse without adequate consideration, the income from that asset will be clubbed with your income.",
+        "source": "Section 60 to 64, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is a 'Defective Return' notice under Section 139(9)?",
+        "answer": "A defective return notice is issued if the ITR filed is incomplete or has inconsistencies, such as missing information in the annexures or claiming relief without providing proof. The taxpayer is given a period of 15 days to rectify the defect.",
+        "source": "Section 139(9), Income Tax Act, 1961"
+      },
+      {
+        "question": "I received an inheritance of property from my father. Do I need to pay tax on it?",
+        "answer": "No. Inheritance received, whether in the form of cash, movable, or immovable property, is not taxed at the time of receipt. However, if you later sell this inherited property, the profits will be subject to capital gains tax.",
+        "source": "Section 56(2)(x), Income Tax Act, 1961"
+      },
+      {
+        "question": "Can I claim a deduction for donations made to a political party?",
+        "answer": "Yes. Under Section 80GGC, an individual can claim a 100% deduction for any amount donated to a registered political party or an electoral trust. The donation must be made through any mode other than cash.",
+        "source": "Section 80GGC, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the tax treatment of agricultural income in India?",
+        "answer": "Agricultural income is exempt from income tax in India under Section 10(1). However, it is included for the limited purpose of determining the tax rate on your other non-agricultural income if you have net agricultural income exceeding ₹5,000 and total income exceeding the basic exemption limit.",
+        "source": "Section 10(1), Income Tax Act, 1961"
+      },
+      {
+        "question": "A Casual Taxable Person under GST refers to whom?",
+        "answer": "A Casual Taxable Person is someone who occasionally undertakes transactions involving the supply of goods or services in a state where they do not have a fixed place of business. They must obtain temporary GST registration, which is valid for a maximum of 90 days, before making any supplies.",
+        "source": "Section 2(20), CGST Act, 2017"
+      },
+      {
+        "question": "Is it possible to revise a filed GSTR-3B return?",
+        "answer": "No, a filed GSTR-3B cannot be revised. Any mistake or omission must be corrected in the GSTR-3B of a subsequent month by adjusting the tax liability or ITC accordingly.",
+        "source": "GSTN Functionality Guidelines"
+      },
+      {
+        "question": "What is the penalty for not issuing a proper GST invoice?",
+        "answer": "The penalty for not issuing a correct invoice can be ₹10,000 or the amount of tax evaded, whichever is higher, for each such invoice. It is a critical compliance requirement under GST.",
+        "source": "Section 122, CGST Act, 2017"
+      },
+      {
+        "question": "What is a 'debit note' in the context of GST?",
+        "answer": "A supplier issues a debit note when they need to increase the taxable value or GST charged in the original tax invoice. This could be due to an upward revision in price or an incorrect tax rate being charged earlier. It must be reported in the GSTR-1.",
+        "source": "Section 34, CGST Act, 2017"
+      },
+      {
+        "question": "Can a composition dealer make inter-state sales?",
+        "answer": "No, a taxpayer registered under the Composition Scheme is not allowed to make inter-state outward supplies of goods. They can only supply goods within the state.",
+        "source": "Section 10, CGST Act, 2017"
+      },
+      {
+        "question": "What is the GST treatment for goods sent for a job work?",
+        "answer": "A principal can send goods to a job worker without paying GST by using a delivery challan. The principal must receive the goods back within one year (three years for capital goods). If not returned within this period, it is deemed as a supply from the principal to the job worker, and GST becomes payable.",
+        "source": "Section 143, CGST Act, 2017"
+      },
+      {
+        "question": "I am selling handmade sweaters online from home. Do I need GST registration?",
+        "answer": "Generally, making supplies through an E-commerce Operator (ECO) requires mandatory GST registration, regardless of turnover. However, there are exemptions for suppliers of services with turnover below ₹20 lakhs. For goods, registration is usually mandatory from the first sale.",
+        "source": "Section 24, CGST Act, 2017"
+      },
+      {
+        "question": "What is the purpose of GSTR-9C?",
+        "answer": "GSTR-9C is a reconciliation statement between the figures reported in the audited annual financial statements and the figures reported in the annual return (GSTR-9). It must be self-certified by the taxpayer (previously required certification by a CA/CMA) and is applicable for taxpayers with an aggregate annual turnover exceeding ₹5 crores.",
+        "source": "Section 44, CGST Act, 2017"
+      },
+      {
+        "question": "Can I claim ITC on goods and services used for constructing an office building for my own business?",
+        "answer": "No. ITC on goods or services received by a taxable person for the construction of an immovable property (other than plant and machinery) on his own account, even if used for business purposes, is specifically blocked under the GST law.",
+        "source": "Section 17(5)(d), CGST Act, 2017"
+      },
+      {
+        "question": "What does 'Time of Supply' for services under Reverse Charge mean?",
+        "answer": "For services under RCM, the time of supply is the earliest of the following dates: the date of payment made to the supplier, or the date immediately following 60 days from the date of the supplier's invoice.",
+        "source": "Section 13(3), CGST Act, 2017"
+      },
+      {
+        "question": "If I miss the deadline for filing GSTR-1, can I still file it?",
+        "answer": "Yes, you can file a late GSTR-1. However, this will have a cascading effect. Your recipients will not see the ITC in their GSTR-2B for that month, and you will not be able to file your GSTR-3B for that period until the GSTR-1 is filed. Late fees are also applicable.",
+        "source": "GST Common Portal"
+      },
+      {
+        "question": "What is OIDAR service under GST?",
+        "answer": "OIDAR stands for Online Information and Database Access or Retrieval services. These are services provided through the internet with minimal human intervention, such as advertising online, providing cloud services, e-books, music, etc. Foreign OIDAR service providers supplying to customers in India are required to register for GST.",
+        "source": "Section 2(17), IGST Act, 2017"
+      },
+      {
+        "question": "If I am a composition dealer, what tax rate do I pay?",
+        "answer": "The tax rate for a composition dealer depends on the type of business. For traders and other suppliers, it is 1% of the turnover of taxable supplies. For restaurants not serving alcohol, it is 5% of turnover. For manufacturers, it is 1% of turnover.",
+        "source": "Section 10, CGST Act, 2017"
+      },
+      {
+        "question": "What is a 'Mixed Supply' under GST?",
+        "answer": "A mixed supply is a combination of two or more individual supplies of goods or services made together for a single price, where such supplies are not naturally bundled. The entire supply is taxed at the highest rate applicable among the constituent supplies. Example: A Diwali gift basket containing sweets, chocolates, a pen, and a wallet.",
+        "source": "Section 2(74), CGST Act, 2017"
+      },
+      {
+        "question": "How is 'aggregate turnover' calculated for GST purposes?",
+        "answer": "Aggregate turnover is the total value of all taxable supplies, exempt supplies, exports of goods or services, and inter-state supplies of a person having the same PAN, computed on an all-India basis. It excludes the value of inward supplies on which tax is paid under reverse charge and the CGST, SGST, UTGST, and IGST components.",
+        "source": "Section 2(6), CGST Act, 2017"
+      },
+      {
+        "question": "What is the 'Standard Deduction' available for salaried individuals?",
+        "answer": "Salaried individuals can claim a flat Standard Deduction of ₹50,000 from their gross salary income. This deduction is available under both the Old and New Tax Regimes (from FY 2023-24 onwards).",
+        "source": "Section 16(ia), Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the taxability of dividend income?",
+        "answer": "From FY 2020-21 onwards, dividend income is taxable in the hands of the shareholder at their applicable slab rates. The previous Dividend Distribution Tax (DDT) system, where companies paid the tax, has been abolished.",
+        "source": "Finance Act, 2020"
+      },
+      {
+        "question": "Do I need to deduct TDS on a payment of ₹28,000 made to a contractor?",
+        "answer": "No. TDS under Section 194C (Payments to Contractors) is applicable only if a single payment exceeds ₹30,000 or if the aggregate payments to the same person in a financial year exceed ₹1,00,000. A single payment of ₹28,000 is below the threshold.",
+        "source": "Section 194C, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the tax deduction available for interest on a savings bank account?",
+        "answer": "Under Section 80TTA, an individual (other than a senior citizen) can claim a deduction of up to ₹10,000 on interest income earned from a savings account with a bank, co-operative society, or post office. For senior citizens, a higher limit of ₹50,000 is available under Section 80TTB, which covers both savings and FD interest.",
+        "source": "Section 80TTA & 80TTB, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is Angel Tax?",
+        "answer": "Angel Tax refers to the income tax payable on the capital raised by unlisted companies (startups) from an issue of shares, where the share price is seen as being in excess of the Fair Market Value (FMV) of the shares. The excess amount is considered as 'Income from Other Sources' and taxed accordingly.",
+        "source": "Section 56(2)(viib), Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the residential status of an individual for tax purposes?",
+        "answer": "An individual's residential status can be Resident and Ordinarily Resident (ROR), Resident but Not Ordinarily Resident (RNOR), or Non-Resident (NR). This status is determined by the number of days they are physically present in India during the financial year and the preceding years. The tax liability significantly depends on this status.",
+        "source": "Section 6, Income Tax Act, 1961"
+      },
+      {
+        "question": "I have an education loan for my son's studies abroad. Can I claim a deduction for it?",
+        "answer": "Yes. The deduction under Section 80E for interest on an education loan is available for studies pursued in India or abroad. The loan must be taken from a financial institution or an approved charitable institution.",
+        "source": "Section 80E, Income Tax Act, 1961"
+      },
+      {
+        "question": "How is TDS on the purchase of property calculated?",
+        "answer": "Under Section 194-IA, the buyer of an immovable property (other than agricultural land) is required to deduct TDS at 1% of the sale consideration if the value of the transaction is ₹50 lakhs or more. This must be deducted at the time of payment.",
+        "source": "Section 194-IA, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the penalty for not filing an income tax return on time?",
+        "answer": "For a belated return filed after the due date, a late filing fee under Section 234F is levied. It is ₹5,000 if the return is filed before 31st December of the assessment year. If the total income is up to ₹5 lakhs, the fee is ₹1,000. Interest under Section 234A is also charged on the outstanding tax liability.",
+        "source": "Section 234F, Income Tax Act, 1961"
+      },
+      {
+        "question": "If I opt for the presumptive scheme under 44AD, do I have to maintain books of accounts?",
+        "answer": "No. If you declare your income as 8% (or 6% for digital receipts) or more of your turnover under the presumptive scheme, you are not required to maintain detailed books of accounts as prescribed under Section 44AA.",
+        "source": "Section 44AD, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is TCS on Liberalised Remittance Scheme (LRS) transactions?",
+        "answer": "For foreign remittances under the LRS, Tax Collected at Source (TCS) is applicable. For purposes other than education or medical treatment, a rate of 20% is applicable on the amount exceeding ₹7 lakhs in a financial year. For education loans, the rate is 0.5% on the amount exceeding ₹7 lakhs.",
+        "source": "Section 206C(1G), Income Tax Act, 1961"
+      },
+      {
+        "question": "I am a senior citizen (age 76) and only have pension and interest income. Do I have to file an ITR?",
+        "answer": "From FY 2021-22, a super senior citizen (age 75 or above) is exempt from filing an ITR if they have only pension and interest income, and that interest is from the same bank where the pension is credited. The bank would deduct the necessary tax on the total income. If you have interest from other sources, you must file an ITR.",
+        "source": "Section 194P, Income Tax Act, 1961"
+      },
+      {
+        "question": "Is TDS applicable on rent paid by an individual if the rent is ₹15,000 per month?",
+        "answer": "No. TDS on rent under Section 194-IB is only applicable if the monthly rent paid by an individual or HUF (not liable to tax audit) exceeds ₹50,000 per month.",
+        "source": "Section 194-IB, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the tax implication of receiving an ex-gratia payment from an employer?",
+        "answer": "An ex-gratia payment is a voluntary payment made by an employer. It is generally fully taxable as a profit in lieu of salary under Section 17(3) and is added to your total income.",
+        "source": "Section 17(3), Income Tax Act, 1961"
+      },
+      {
+        "question": "Can I carry forward my business losses?",
+        "answer": "Yes, a loss from a non-speculative business can be carried forward for up to 8 subsequent assessment years and can be set off against future profits from any business. However, the ITR must be filed within the original due date to be eligible to carry forward the loss.",
+        "source": "Section 72, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the due date for filing ITR for a company?",
+        "answer": "For a company, and for individuals whose accounts are required to be audited, the due date for filing the Income Tax Return is the 31st of October of the assessment year.",
+        "source": "Section 139(1), Income Tax Act, 1961"
+      },
+      {
+        "question": "How are Short-Term Capital Gains on the sale of listed equity shares taxed?",
+        "answer": "If listed equity shares are sold within 12 months of purchase, the profit is a Short-Term Capital Gain (STCG). If Securities Transaction Tax (STT) has been paid on the sale, the STCG is taxed at a special flat rate of 15% under Section 111A.",
+        "source": "Section 111A, Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the 'slump sale' under the Income Tax Act?",
+        "answer": "A slump sale is the transfer of one or more undertakings as a going concern for a lump sum consideration without values being assigned to the individual assets and liabilities. The profit from a slump sale is treated as a capital gain.",
+        "source": "Section 50B, Income Tax Act, 1961"
+      },
+      {
+        "question": "Is TDS required on payments made for personal purposes?",
+        "answer": "Generally, an individual is not required to deduct TDS on payments made for purely personal purposes. The TDS provisions (like 194C, 194J) apply when the payment is related to a business or profession. Exceptions include high-value rent (194-IB) and property purchase (194-IA).",
+        "source": "Income Tax Act, 1961"
+      },
+      {
+        "question": "What is the tax benefit on buying an electric vehicle?",
+        "answer": "Under Section 80EEB, a taxpayer can claim a deduction of up to ₹1,50,000 for the interest paid on a loan taken to purchase an electric vehicle. This was available for loans sanctioned between April 1, 2019, and March 31, 2023.",
+        "source": "Section 80EEB, Income Tax Act, 1961"
+      },
+      
+        {
+          "question": "What is the primary difference between B2B and B2C invoices under GST?",
+          "answer": "B2B (Business-to-Business) invoices are issued to another registered GST entity and must include the recipient's GSTIN. ITC can be claimed on these. B2C (Business-to-Consumer) invoices are issued to unregistered customers. For interstate B2C sales over ₹2.5 lakhs, the invoice must be generated, otherwise, a consolidated summary is sufficient for intrastate sales.",
+          "source": "Rule 46, CGST Rules, 2017"
+        },
+        {
+          "question": "If I purchase goods from an unregistered dealer, do I have to pay GST under RCM?",
+          "answer": "The provision for paying GST on a reverse charge basis for purchases from unregistered persons under Section 9(4) has been suspended. RCM is currently applicable only on specified goods and services like those from a Goods Transport Agency, advocate services, etc., or on purchases made by a registered promoter for real estate projects.",
+          "source": "Notification No. 07/2019-Central Tax (Rate)"
+        },
+        {
+          "question": "What is a 'Composite Supply' under GST? Give an example.",
+          "answer": "A composite supply consists of two or more supplies that are naturally bundled and supplied together in the ordinary course of business, where one is a principal supply. The entire supply is taxed at the rate of the principal supply. Example: When you buy a television, the warranty and installation are supplied along with it. The TV is the principal supply, and its GST rate applies to the entire transaction.",
+          "source": "Section 2(30), CGST Act, 2017"
+        },
+        {
+          "question": "What is 'Blocked Credit' under GST?",
+          "answer": "Blocked credit refers to the Input Tax Credit (ITC) on certain goods and services that cannot be claimed, even if they are used for business purposes. This includes items like motor vehicles (with exceptions), food and beverages, club memberships, and goods lost, stolen, or destroyed.",
+          "source": "Section 17(5), CGST Act, 2017"
+        },
+        {
+          "question": "When is an E-Way Bill required?",
+          "answer": "An E-Way Bill is mandatory for the movement of goods where the consignment value exceeds ₹50,000. It must be generated on the E-Way Bill portal before the movement of goods commences. This rule applies to both interstate and intrastate movements, though some states have different limits for intrastate movements.",
+          "source": "Rule 138, CGST Rules, 2017"
+        },
+        {
+          "question": "I run a small bakery with a turnover of ₹35 lakhs. Do I need GST registration?",
+          "answer": "The threshold for GST registration for suppliers of goods is ₹40 lakhs in most states. Since your turnover is below this limit, you are not required to register for GST. However, this threshold is ₹20 lakhs for service providers and for specified category states.",
+          "source": "Section 22, CGST Act, 2017"
+        },
+        {
+          "question": "What is the QRMP scheme under GST?",
+          "answer": "The QRMP (Quarterly Return Monthly Payment) scheme is for small taxpayers with an aggregate annual turnover of up to ₹5 crores. It allows them to file their GSTR-1 and GSTR-3B on a quarterly basis, while having to pay their tax liability on a monthly basis through a simple challan.",
+          "source": "CBIC GST Policy Wing Circulars"
+        },
+        {
+          "question": "Can I claim ITC on an invoice that is one year old?",
+          "answer": "No. The time limit to claim ITC for an invoice is the 30th of November of the next financial year or the date of filing the annual return, whichever is earlier. You cannot claim ITC on an invoice that is more than a year old if this deadline has passed.",
+          "source": "Section 16(4), CGST Act, 2017"
+        },
+        {
+          "question": "If a transaction is declared as a 'Zero-Rated Supply', does it mean the GST rate is 0%?",
+          "answer": "No. A zero-rated supply means the output supply is exempt from GST, but the supplier can claim a refund of the ITC paid on inputs used to make that supply. This typically applies to exports and supplies to SEZ developers/units. This is different from a 'Nil' rated supply, where the tax rate is 0% and no ITC can be claimed.",
+          "source": "Section 16, IGST Act, 2017"
+        },
+        {
+          "question": "What is the 'Place of Supply' for services related to immovable property?",
+          "answer": "For services directly related to immovable property, such as those provided by architects, interior decorators, or real estate agents, the place of supply is the location where the immovable property is situated.",
+          "source": "Section 12(3), IGST Act, 2017"
+        },
+        {
+          "question": "My business provides both taxable and exempt supplies. How do I calculate my eligible ITC?",
+          "answer": "You must reverse the ITC attributable to the exempt supplies. You can claim full ITC on inputs used exclusively for taxable supplies, no ITC on inputs for exempt supplies, and for common inputs, the ITC must be calculated proportionally based on the turnover of taxable supplies to the total turnover.",
+          "source": "Rule 42, CGST Rules, 2017"
+        },
+        {
+          "question": "Is GST applicable on the director's remuneration?",
+          "answer": "If the director is an employee of the company and the payment is treated as 'salary' on which TDS is deducted under Section 192 of the Income Tax Act, then no GST is applicable. However, if the remuneration is paid as professional fees to a non-executive director (TDS under 194J), then GST is payable by the company under the Reverse Charge Mechanism.",
+          "source": "CBIC Circular No. 140/10/2020-GST"
+        },
+        {
+          "question": "What is the purpose of GSTR-9, the Annual Return?",
+          "answer": "GSTR-9 is an annual consolidation of all the monthly/quarterly returns (GSTR-1 and GSTR-3B) filed during a financial year. It is a comprehensive summary of outward and inward supplies, taxes paid, and ITC claimed. It is mandatory for taxpayers with an aggregate annual turnover above ₹2 crores.",
+          "source": "Section 44, CGST Act, 2017"
+        },
+        {
+          "question": "I am a service provider in Delhi, providing services to a client in California, USA. What tax do I charge?",
+          "answer": "This is considered an 'export of services'. Exports are treated as zero-rated supplies under GST. You can export the service without charging any tax (IGST) by furnishing a Letter of Undertaking (LUT), and you can still claim a refund of the ITC accumulated on your inputs.",
+          "source": "Section 16, IGST Act, 2017"
+        },
+        {
+          "question": "My company forgot to pay GST for a month. What are the interest and penalty implications?",
+          "answer": "For delayed payment of GST, you are liable to pay interest at 18% per annum on the outstanding tax amount. Additionally, a late fee for filing the GSTR-3B return is levied, which is ₹50 per day (₹20 for nil returns), subject to a maximum cap based on turnover.",
+          "source": "Section 50 & Section 47, CGST Act, 2017"
+        },
+        {
+          "question": "What is an e-invoice and who is it applicable to?",
+          "answer": "E-invoicing is a system where B2B invoices are electronically authenticated by the GST Network (GSTN) for further use on the common GST portal. It is mandatory for registered taxpayers with an aggregate annual turnover exceeding ₹5 crores.",
+          "source": "Notification No. 10/2023-Central Tax"
+        },
+        {
+          "question": "Can ITC be claimed on capital goods in one go?",
+          "answer": "Yes, unlike the previous tax regime, under GST, you can claim the full Input Tax Credit on capital goods in the same month they are received and accounted for in your books, provided all conditions under Section 16 are met.",
+          "source": "Section 16, CGST Act, 2017"
+        },
+        {
+          "question": "What is the GST rate on under-construction property?",
+          "answer": "The GST rate for under-construction residential properties is 5% without ITC for the builder. For affordable housing projects, the rate is 1% without ITC. GST is not applicable on the sale of completed properties where the completion certificate has been issued.",
+          "source": "GST Council Meeting Recommendations"
+        },
+        {
+          "question": "What is the validity of an E-Way Bill?",
+          "answer": "The validity of an E-Way Bill depends on the distance. For regular cargo, the validity is 1 day for every 200 km or part thereof. For over-dimensional cargo, it is 1 day for every 20 km or part thereof. The validity period starts from the time the bill is generated.",
+          "source": "Rule 138(10), CGST Rules, 2017"
+        },
+        {
+          "question": "A customer paid me an advance for goods. When is the GST liability due?",
+          "answer": "For the supply of goods, GST is payable only at the time of issuing the invoice. The 'time of supply' is not triggered on receipt of an advance payment for goods. However, for services, GST is payable on receipt of advance.",
+          "source": "Notification No. 66/2017-Central Tax"
+        },
+        {
+          "question": "What is the difference between GSTR-2A and GSTR-2B?",
+          "answer": "GSTR-2A is a dynamic, real-time statement that reflects all B2B invoice data uploaded by your suppliers as they file their GSTR-1. GSTR-2B is a static, auto-drafted statement generated once a month, which becomes the official reference for claiming ITC for that period. ITC should be claimed based on GSTR-2B, not GSTR-2A.",
+          "source": "GSTN Portal Guidelines"
+        },
+        {
+          "question": "How do I use the Invoice Furnishing Facility (IFF) under the QRMP scheme?",
+          "answer": "The IFF is a facility for taxpayers under the QRMP scheme to declare their B2B invoices for the first two months of a quarter. This allows the recipients of these invoices to claim ITC in the same month. Invoices declared in the IFF do not need to be declared again in the quarterly GSTR-1.",
+          "source": "Rule 59, CGST Rules, 2017"
+        },
+        {
+          "question": "What is a 'deemed export' under GST?",
+          "answer": "Deemed export refers to supplies of goods that do not leave India, but are treated as exports for the purpose of concessions under the GST law. An example is the supply of goods to an Export Oriented Unit (EOU) or a project funded by the UN. The supplier can claim a refund of the tax paid on such supplies.",
+          "source": "Notification No. 48/2017-Central Tax"
+        },
+        {
+          "question": "What is the 'Anti-Profiteering' measure in GST?",
+          "answer": "The anti-profiteering measure ensures that any reduction in the rate of tax on any supply of goods or services or the benefit of input tax credit is passed on to the recipient by way of a commensurate reduction in prices. The National Anti-profiteering Authority (NAA) was set up to enforce this.",
+          "source": "Section 171, CGST Act, 2017"
+        },
+        {
+          "question": "What is the concept of an Input Service Distributor (ISD)?",
+          "answer": "An ISD is an office of a business (typically a head office) that receives tax invoices for services used by its various branches. The ISD's role is to distribute the eligible ITC from these services to the respective branches on a proportional basis by issuing an ISD invoice.",
+          "source": "Section 20, CGST Act, 2017"
+        },
+        {
+          "question": "Can I claim ITC on goods given as free samples?",
+          "answer": "No. Input tax credit is not available for goods disposed of by way of gift or free samples. This is considered a blocked credit under the law.",
+          "source": "Section 17(5)(h), CGST Act, 2017"
+        },
+        {
+          "question": "My GST registration was cancelled. What is the Final Return GSTR-10?",
+          "answer": "GSTR-10 is the Final Return that must be filed by every taxpayer whose GST registration is cancelled or surrendered. It must be filed within three months from the date of cancellation or the date of the cancellation order, whichever is later. It contains details of the stock held and the corresponding tax liability to be paid.",
+          "source": "Section 45, CGST Act, 2017"
+        },
+        {
+          "question": "What is the 'Time of Supply' in case of a change in the rate of tax?",
+          "answer": "When there is a change in the GST rate, the time of supply is determined by specific rules. If the supply, invoice, and payment all occur before the rate change, the old rate applies. If all three occur after, the new rate applies. For other combinations, the time of supply is generally the date of invoice or date of payment, whichever is earlier.",
+          "source": "Section 14, CGST Act, 2017"
+        },
+        {
+          "question": "Is GST applicable on services provided by the government?",
+          "answer": "Most services provided by the Central or State Government are exempt. However, certain services are taxable, such as services by the Department of Posts (e.g., speed post), services in relation to an aircraft or vessel inside a port/airport, and services provided to business entities.",
+          "source": "Notification No. 12/2017-Central Tax (Rate)"
+        },
+        {
+          "question": "What is the GST implication on Joint Development Agreements (JDA) in real estate?",
+          "answer": "In a JDA, where a landowner transfers development rights to a promoter in exchange for constructed apartments, GST is levied. The liability to pay tax on the construction service provided by the promoter to the landowner arises at the time when the promoter transfers possession or right in the constructed complex to the landowner.",
+          "source": "CBIC Circular No. 151/07/2021-GST"
+        },
+        {
+          "question": "What is the difference between the Old Tax Regime and the New Tax Regime for individuals?",
+          "answer": "The Old Tax Regime allows taxpayers to claim various deductions and exemptions like those under Section 80C, 80D, HRA, etc. The New Tax Regime (default regime from FY 2023-24) offers lower slab rates but does not allow most of the common deductions and exemptions.",
+          "source": "Section 115BAC, Income Tax Act, 1961"
+        },
+        {
+          "question": "I am a salaried employee. Can I opt for the presumptive taxation scheme under Section 44AD?",
+          "answer": "No. The presumptive taxation scheme under Section 44AD is only for eligible businesses. It is not applicable to income from salary. A person having salary income and also running an eligible business can opt for this scheme only for their business income.",
+          "source": "Section 44AD, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the TDS rate on winnings from online games?",
+          "answer": "TDS at a rate of 30% is applicable on the net winnings from any online game. The deduction must be made at the time of withdrawal or at the end of the financial year. No threshold limit of ₹10,000 applies to online games.",
+          "source": "Section 194BA, Income Tax Act, 1961"
+        },
+        {
+          "question": "I sold a residential property after holding it for 5 years. Is the profit taxable?",
+          "answer": "Yes. The profit from selling a property held for more than 24 months is a Long-Term Capital Gain (LTCG). It is taxed at 20% after applying indexation benefits. You can claim an exemption from this tax by reinvesting the capital gains in another residential property under Section 54 or in specified bonds under Section 54EC.",
+          "source": "Section 48 & Section 54, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the maximum amount I can deposit in my PPF account to claim an 80C deduction?",
+          "answer": "You can deposit a maximum of ₹1,50,000 in a Public Provident Fund (PPF) account in a financial year. The entire amount deposited is eligible for deduction under Section 80C.",
+          "source": "Section 80C, Income Tax Act, 1961"
+        },
+        {
+          "question": "My total income is ₹6.5 lakhs. Do I have to pay any tax under the New Tax Regime?",
+          "answer": "No. Although your income is above the basic exemption limit, if your net taxable income is up to ₹7 lakhs, you are eligible for a full tax rebate under Section 87A in the New Tax Regime. This makes your effective tax liability zero.",
+          "source": "Section 87A, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the due date for paying advance tax?",
+          "answer": "For individuals and corporates, advance tax is payable in four installments: 15% by June 15, 45% by September 15, 75% by December 15, and 100% by March 15 of the financial year. It is applicable if your estimated tax liability for the year is ₹10,000 or more.",
+          "source": "Section 211, Income Tax Act, 1961"
+        },
+        {
+          "question": "I received a gift of ₹1 lakh from my friend on my birthday. Is it taxable?",
+          "answer": "Yes. Any sum of money received as a gift from a person other than a specified relative is taxable if the aggregate value during the year exceeds ₹50,000. The entire ₹1 lakh would be taxed under the head 'Income from Other Sources'. Gifts from relatives like parents, spouse, or siblings are fully exempt.",
+          "source": "Section 56(2)(x), Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the difference between Form 16 and Form 16A?",
+          "answer": "Form 16 is a TDS certificate issued by an employer to an employee, providing details of the salary paid and tax deducted. Form 16A is a TDS certificate for tax deducted on income other than salary, such as interest on fixed deposits, professional fees, or rent.",
+          "source": "Income Tax Rules, 1962"
+        },
+        {
+          "question": "Can I claim a deduction for health insurance premiums paid for my parents?",
+          "answer": "Yes. Under Section 80D, you can claim a deduction for health insurance premiums paid for your parents. The limit is ₹25,000 if they are below 60 years of age, and up to ₹50,000 if they are senior citizens.",
+          "source": "Section 80D, Income Tax Act, 1961"
+        },
+        {
+          "question": "My bank deducted TDS on my savings account interest. Why?",
+          "answer": "Banks do not deduct TDS on savings account interest. TDS is deducted on interest from Fixed Deposits or Recurring Deposits if the interest income exceeds ₹40,000 in a financial year for individuals (₹50,000 for senior citizens). You might be confusing savings interest with FD interest.",
+          "source": "Section 194A, Income Tax Act, 1961"
+        },
+        {
+          "question": "Which ITR form should a salaried individual with capital gains file?",
+          "answer": "A salaried individual who also has income from capital gains (from selling shares or property) must file ITR-2. ITR-1 (Sahaj) can only be filed by salaried individuals with income up to ₹50 lakhs and having only one house property and agricultural income up to ₹5,000. It cannot be used if there is capital gains income.",
+          "source": "Income Tax Department Portal FAQs"
+        },
+        {
+          "question": "What is the benefit of filing an updated return (ITR-U)?",
+          "answer": "ITR-U allows taxpayers to update their returns to correct errors or omissions or to declare income they missed reporting in their original return. It can be filed within two years from the end of the relevant assessment year, but it requires payment of the due tax along with an additional tax of 25% or 50% of the aggregate of tax and interest.",
+          "source": "Section 139(8A), Income Tax Act, 1961"
+        },
+        {
+          "question": "I am a doctor running my own clinic. Can I use the presumptive scheme under Section 44ADA?",
+          "answer": "Yes. As a medical professional, you are eligible to opt for the presumptive taxation scheme under Section 44ADA, provided your gross annual receipts are up to ₹75 lakhs (new limit from FY 2023-24, provided cash receipts are up to 5%). Under this scheme, 50% of your gross receipts are considered your taxable income.",
+          "source": "Section 44ADA, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the purpose of the Annual Information Statement (AIS)?",
+          "answer": "The AIS provides a comprehensive view of information available with the Income Tax Department for a taxpayer. It includes details of financial transactions like interest, dividends, securities transactions, mutual fund transactions, and foreign remittances, which are reported by various entities. It helps taxpayers in filing their returns accurately.",
+          "source": "CBDT Circulars"
+        },
+        {
+          "question": "I bought shares for ₹1 lakh and sold them after 14 months for ₹1.5 lakhs. What is my tax liability?",
+          "answer": "Since the shares (assuming listed equity shares) were held for more than 12 months, the gain is a Long-Term Capital Gain (LTCG) of ₹50,000. LTCG from listed equity shares is exempt up to ₹1 lakh in a financial year. As your gain is below this limit, your tax liability on this transaction is zero.",
+          "source": "Section 112A, Income Tax Act, 1961"
+        },
+        {
+          "question": "Is interest earned on an education loan eligible for a tax deduction?",
+          "answer": "Yes. Under Section 80E, you can claim a deduction for the entire interest amount paid on an education loan taken for higher education for yourself, your spouse, or your children. There is no upper limit on the interest amount, and the deduction is available for a maximum of 8 years.",
+          "source": "Section 80E, Income Tax Act, 1961"
+        },
+        {
+          "question": "My employer provides me with food coupons worth ₹3,000 per month. Is this taxable?",
+          "answer": "Food coupons or meal vouchers provided by an employer are exempt from tax up to ₹50 per meal. Assuming 22 working days and two meals a day, the exempt amount would be ₹2,200 per month (22 * 2 * 50). The balance amount of ₹800 per month would be taxable as a perquisite and added to your salary.",
+          "source": "Rule 3(7)(iii), Income Tax Rules, 1962"
+        },
+        {
+          "question": "What is the TDS rate on commission or brokerage?",
+          "answer": "TDS on commission or brokerage under Section 194H is deductible at a rate of 5% if the aggregate amount of such payments to a person exceeds ₹15,000 in a financial year. No surcharge or cess is added to this rate.",
+          "source": "Section 194H, Income Tax Act, 1961"
+        },
+        {
+          "question": "When is it mandatory to file an Income Tax Return?",
+          "answer": "It is mandatory to file an ITR if your gross total income (before deductions) exceeds the basic exemption limit. It is also mandatory in certain other cases, such as if you have deposited more than ₹1 crore in bank accounts, incurred foreign travel expenses over ₹2 lakhs, or paid an electricity bill over ₹1 lakh in the financial year.",
+          "source": "Section 139(1), Income Tax Act, 1961"
+        },
+        {
+          "question": "What is 'clubbing of income'?",
+          "answer": "Clubbing of income means including the income of another person (like a spouse or minor child) in a taxpayer's total income for tax calculation. For example, if you transfer an income-generating asset to your spouse without adequate consideration, the income from that asset will be clubbed with your income.",
+          "source": "Section 60 to 64, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is a 'Defective Return' notice under Section 139(9)?",
+          "answer": "A defective return notice is issued if the ITR filed is incomplete or has inconsistencies, such as missing information in the annexures or claiming relief without providing proof. The taxpayer is given a period of 15 days to rectify the defect.",
+          "source": "Section 139(9), Income Tax Act, 1961"
+        },
+        {
+          "question": "I received an inheritance of property from my father. Do I need to pay tax on it?",
+          "answer": "No. Inheritance received, whether in the form of cash, movable, or immovable property, is not taxed at the time of receipt. However, if you later sell this inherited property, the profits will be subject to capital gains tax.",
+          "source": "Section 56(2)(x), Income Tax Act, 1961"
+        },
+        {
+          "question": "Can I claim a deduction for donations made to a political party?",
+          "answer": "Yes. Under Section 80GGC, an individual can claim a 100% deduction for any amount donated to a registered political party or an electoral trust. The donation must be made through any mode other than cash.",
+          "source": "Section 80GGC, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the tax treatment of agricultural income in India?",
+          "answer": "Agricultural income is exempt from income tax in India under Section 10(1). However, it is included for the limited purpose of determining the tax rate on your other non-agricultural income if you have net agricultural income exceeding ₹5,000 and total income exceeding the basic exemption limit.",
+          "source": "Section 10(1), Income Tax Act, 1961"
+        },
+        {
+          "question": "How do you calculate House Rent Allowance (HRA) exemption?",
+          "answer": "The HRA exemption is the minimum of the following three amounts: 1) Actual HRA received from the employer. 2) 50% of basic salary for those living in metro cities (40% for non-metros). 3) Actual rent paid minus 10% of basic salary. The calculation is done for the period for which the rent is paid.",
+          "source": "Section 10(13A), Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the difference between tax deduction under Section 194Q and tax collection under Section 206C(1H)?",
+          "answer": "Section 194Q (TDS) applies to a buyer whose turnover exceeds ₹10 crores, for the purchase of goods exceeding ₹50 lakhs. Section 206C(1H) (TCS) applies to a seller whose turnover exceeds ₹10 crores, for the sale of goods exceeding ₹50 lakhs. If a transaction is subject to both, the TDS provision under Section 194Q will prevail.",
+          "source": "CBDT Circular No. 13 of 2021"
+        },
+        {
+          "question": "Can I claim a deduction for my contribution to the National Pension System (NPS)?",
+          "answer": "Yes. Employee contributions to NPS are deductible up to 10% of salary under Section 80CCD(1), within the overall ₹1.5 lakh limit of 80C. Additionally, you can claim a deduction of up to ₹50,000 for voluntary contributions to NPS under Section 80CCD(1B), over and above the 80C limit.",
+          "source": "Section 80CCD(1B), Income Tax Act, 1961"
+        },
+        {
+          "question": "I am a salaried person who also trades in Futures & Options (F&O). How is this income taxed?",
+          "answer": "Income from F&O trading is considered as a non-speculative business income and is taxed under the head 'Profits and Gains from Business or Profession'. It is added to your total income and taxed at your applicable slab rates. You can also claim related expenses like brokerage, internet charges, etc.",
+          "source": "Income Tax Act, 1961"
+        },
+        {
+          "question": "What is a 'deemed resident' for tax purposes?",
+          "answer": "An Indian citizen with a total income (other than from foreign sources) exceeding ₹15 lakhs is deemed to be a resident in India if they are not liable to tax in any other country or territory by reason of their domicile or residence. This provision was introduced to prevent tax avoidance by stateless persons.",
+          "source": "Section 6(1A), Income Tax Act, 1961"
+        },
+        {
+          "question": "How are Sovereign Gold Bonds (SGBs) taxed?",
+          "answer": "The interest received on SGBs (2.5% p.a.) is taxable under 'Income from Other Sources' at your slab rate. However, the capital gains arising on the redemption of SGBs on maturity are fully exempt from tax. If you sell the bonds on the stock exchange before maturity, the capital gains will be taxed (LTCG at 20% with indexation after 3 years).",
+          "source": "Sovereign Gold Bond Scheme, GOI"
+        },
+        {
+          "question": "What is a 'scrutiny assessment' notice under Section 143(2)?",
+          "answer": "A scrutiny assessment notice is issued by the Income Tax Department to a taxpayer selected for a detailed examination of their ITR. The purpose is to verify the correctness and genuineness of the various claims, deductions, and income reported in the return by requesting supporting documents and explanations.",
+          "source": "Section 143(2), Income Tax Act, 1961"
+        },
+        {
+          "question": "Can a company claim a deduction for cash payments exceeding ₹10,000?",
+          "answer": "No. As per Section 40A(3), if a payment exceeding ₹10,000 is made to a person in a single day otherwise than by an account payee cheque, bank draft, or electronic clearing system, the entire expenditure will be disallowed and cannot be claimed as a business expense.",
+          "source": "Section 40A(3), Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the tax benefit on Leave Travel Allowance (LTA)?",
+          "answer": "The LTA exemption can be claimed for travel expenses incurred on a trip within India for yourself and your family. The exemption is limited to the actual travel cost incurred (e.g., economy airfare or AC first-class rail fare) and can be claimed for two journeys in a block of four calendar years.",
+          "source": "Section 10(5), Income Tax Act, 1961"
+        },
+        {
+          "question": "I have a 'deemed let-out property'. What does this mean for taxation?",
+          "answer": "If you own more than one self-occupied house property, only one can be treated as self-occupied. The other property(s) will be considered 'deemed let-out', and you must calculate a notional rent for it and pay tax on that rental income, even if you haven't actually rented it out.",
+          "source": "Section 23, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the significance of a Double Taxation Avoidance Agreement (DTAA)?",
+          "answer": "A DTAA is a tax treaty between two countries that aims to prevent the same income from being taxed in both countries. It allows a taxpayer to claim tax relief, either by exempting the income in one country or by providing a credit for the tax paid in one country against the tax liability in the other.",
+          "source": "Section 90, Income Tax Act, 1961"
+        },
+        {
+          "question": "How is tax calculated on the sale of a bonus share?",
+          "answer": "For bonus shares, the cost of acquisition is considered to be nil. When you sell them, the entire sale proceeds are treated as capital gains. The holding period is calculated from the date of allotment of the bonus shares to determine if it's a short-term or long-term capital gain.",
+          "source": "Section 55, Income Tax Act, 1961"
+        },
+        {
+          "question": "I run a small shop and use UPI for all payments. Can I declare my income at 6% under the presumptive scheme?",
+          "answer": "Yes. Under the presumptive taxation scheme of Section 44AD, if your turnover is received through banking channels, including UPI, you can declare your profits as 6% of the turnover, instead of the standard 8% applicable for cash receipts.",
+          "source": "Section 44AD, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is a 'revised return' and when can it be filed?",
+          "answer": "If you discover any omission or wrong statement after filing your original ITR, you can file a revised return under Section 139(5). It can be filed at any time before three months prior to the end of the relevant assessment year or before the completion of the assessment, whichever is earlier.",
+          "source": "Section 139(5), Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the deduction available under Section 80DDB?",
+          "answer": "Section 80DDB provides a deduction for medical expenses incurred for the treatment of specified critical ailments (like cancer or neurological diseases) for oneself or a dependent. The deduction is up to ₹40,000, and up to ₹1,00,000 if the patient is a senior citizen.",
+          "source": "Section 80DDB, Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the tax implication if I close my ULIP policy before 5 years?",
+          "answer": "If you surrender or terminate a Unit Linked Insurance Plan (ULIP) before the completion of the 5-year lock-in period, the entire surrender value will be considered as your income for that year and taxed at your applicable slab rate. Also, any deductions claimed under Section 80C in previous years for that policy will be reversed and deemed as income.",
+          "source": "Section 10(10D), Income Tax Act, 1961"
+        },
+        {
+          "question": "Is TDS applicable on the purchase of a car?",
+          "answer": "TDS is not applicable. However, Tax Collected at Source (TCS) is applicable. The seller of a motor vehicle must collect TCS at 1% from the buyer if the sale value exceeds ₹10 lakhs.",
+          "source": "Section 206C(1F), Income Tax Act, 1961"
+        },
+        {
+          "question": "What is the penalty for under-reporting of income?",
+          "answer": "Under Section 270A, a penalty of 50% of the tax payable on the under-reported income can be levied. If the under-reporting results from misreporting of facts, the penalty can be as high as 200% of the tax payable.",
+          "source": "Section 270A, Income Tax Act, 1961"
+        },
+        {
+          "question": "Can I claim depreciation on an asset in the same year I sell it?",
+          "answer": "No. Depreciation can only be claimed on assets owned and used by the taxpayer for their business or profession. If an asset is sold during the year, it is removed from the block of assets, and no depreciation can be claimed on it for that year.",
+          "source": "Section 32, Income Tax Act, 1961"
+        },
+        {
+          "question": "What does 'attracting a provision of section 43B' mean?",
+          "answer": "Section 43B specifies certain business expenses that can only be claimed as a deduction on a payment basis, not on an accrual basis. This includes payments like taxes, duties, cess, bonus to employees, and interest on loans from financial institutions. The deduction is allowed only in the year the payment is actually made.",
+          "source": "Section 43B, Income Tax Act, 1961"
+        }
+      
+
+    
+  
+
+
+
+
+
+   
+    
+  ]
+  
