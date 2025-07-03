@@ -32,9 +32,9 @@ For detailed information on how to run, build, and understand the project, pleas
 
 | Document                                            | Description                                             |
 | :-------------------------------------------------- | :------------------------------------------------------ |
-| **[RUN_INSTRUCTIONS.md](documentation/RUN_INSTRUCTIONS.md)** | Step-by-step guide to run the chatbot locally.          |
+| **[RUN_INSTRUCTIONS.md](documentation/RUN_INSTRUCTION.md)** | Step-by-step guide to run the chatbot locally.          |
 | **[MODEL_BUILD.md](documentation/MODEL_BUILD.md)**           | Explanation of the RAG pipeline and model architecture. |
-| **[DATA_SOURCES.md](documentation/DATA_SOURCES.md)**         | A complete list of all data sources used.               |
+| **[DATA_SOURCES.md](documentation/DATA_SOURCE.md)**         | A complete list of all data sources used.               |
 
 
 ---
