@@ -38,5 +38,5 @@ def ask():
     return jsonify({"answer": text, "sources": sources})
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))  # fallback to 5000 locally
+    port = int(os.environ.get("PORT", 8080))  # fallback to 5000 locally
     app.run(host="0.0.0.0", port=port)
