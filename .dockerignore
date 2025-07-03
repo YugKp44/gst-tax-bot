@@ -1,0 +1,28 @@
+# Ignore Python virtual env
+venv/
+__pycache__/
+
+# Ignore local model & cache directories
+*.cache/
+*.hf/
+transformers_cache/
+sentence_transformers_cache/
+
+# Ignore Git metadata
+.git/
+
+# Ignore anything else you don’t need in the container
+*.log
+.DS_Store
+
+# But keep your actual code, templates, static assets, faqs and embeddings
+!app.py
+!model.py
+!retrieve.py
+!requirements.txt
+!Dockerfile
+!templates/**
+!static/**
+!faqs.json
+!embeddings/faiss.index
+!embeddings/faq_meta.pkl

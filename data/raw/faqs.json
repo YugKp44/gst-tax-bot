@@ -461,7 +461,7 @@
     },
     {
       "question": "What are the types of GST in India?",
-      "answer": "There are four components:\n\n- **CGST** (Central GST): Levied on intrastate supplies, collected by the Centre\n- **SGST/UTGST** (State/Union Territory GST): Levied on intrastate supplies, collected by the State/UT\n- **IGST** (Integrated GST): Levied on interstate supplies, collected by the Centre and shared with States\n- **CESS**: Levied on specific goods (e.g., tobacco) to fund compensation to States",
+      "answer": "There are four components:\n\n- CGST (Central GST): Levied on intrastate supplies, collected by the Centre\n- SGST/UTGST (State/Union Territory GST): Levied on intrastate supplies, collected by the State/UT\n- IGST (Integrated GST): Levied on interstate supplies, collected by the Centre and shared with States\n- CESS: Levied on specific goods (e.g., tobacco) to fund compensation to States",
       "source": "GST.pdf"
     },
     {
