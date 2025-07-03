@@ -1,23 +1,36 @@
-# Use the official Python slim image
+# Use Python base image
 FROM python:3.10-slim
 
-# Set a working directory
+# Set working directory
 WORKDIR /app
 
-# Copy requirements first for caching
-COPY requirements.txt .
+# Install build tools if needed
+RUN apt-get update && apt-get install -y \
+    build-essential cmake git && \
+    rm -rf /var/lib/apt/lists/*
 
-# Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+# Copy and install Python dependencies
+COPY requirements.txt .  
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the code
+# Pre‑download and cache the SBERT & T5 models at build time
+RUN python3 - <<EOF
+from sentence_transformers import SentenceTransformer
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+
+# Cache the embeddings model
+SentenceTransformer("all-MiniLM-L6-v2")
+# Cache the generation model
+AutoTokenizer.from_pretrained("google/flan-t5-small")
+AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-small")
+EOF
+
+# Copy your application code and assets
 COPY . .
 
-# Tell Cloud Run which port to listen on
-ENV PORT 8080
-
-# Expose the port
+# Expose the port Cloud Run expects
 EXPOSE 8080
 
-# Start the app with Gunicorn
-CMD ["gunicorn", "app:app", "--bind", "0.0.0.0:8080", "--workers", "1"]
+# Start the app with Gunicorn, allow longer first‑request time
+CMD ["gunicorn", "-b", "0.0.0.0:8080", "app:app", "--workers", "1", "--timeout", "120"]
