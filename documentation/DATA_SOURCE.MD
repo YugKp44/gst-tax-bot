@@ -7,8 +7,8 @@ This chatbot is designed to answer questions on **Indian GST and Income Tax laws
 | Source                        | Description                                                              | Link                                                                         |
 | :---------------------------- | :----------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
 | **CBIC GST Portal**           | Official government portal for all GST-related rules, returns, and FAQs. | <https://cbic-gst.gov.in>                                                    |
-| **FAQ on TDS under GST**      | Detailed questions on TDS provisions under the GST Act.                  | [TDS_FAQ_PDF](https://cbic-gst.gov.in/pdf/FAQs_TDS.pdf)                      |
-| **Advance Ruling FAQs**       | Frequently asked questions on advance tax rulings under GST.             | [Advance Ruling PDF](https://cbic-gst.gov.in/pdf/FAQs-on-Advance-Ruling.pdf) |
+| **FAQ on TDS under GST**      | Detailed questions on TDS provisions under the GST Act.                  | <https://incometaxindia.gov.in/Pages/faqs.aspx>                      |
+| **Advance Ruling FAQs**       | Frequently asked questions on advance tax rulings under GST.             | <https://incometaxindia.gov.in/Pages/faqs.aspx> |
 | **Returns (GSTR‑1, GSTR‑3B)** | Filing instructions, timelines, and penalties.                           | CBIC Downloads Section                                                       |
 
 ---
@@ -17,9 +17,9 @@ This chatbot is designed to answer questions on **Indian GST and Income Tax laws
 | Source                      | Description                                                        | Link                                                                               |
 | :-------------------------- | :----------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
 | **Income Tax India Portal** | Official IT department portal for laws, deductions, and TDS rates. | <https://incometax.gov.in>                                                         |
-| **FAQs on TDS / TCS**       | Covers key provisions under sections 194C, 194I, 206C, etc.        | [TDS FAQs Page](https://incometaxindia.gov.in/pages/tax-information-services.aspx) |
-| **Section 80C Deductions**  | List of eligible deductions and investments.                       | [Income Tax Act - Chapter VI-A](https://incometax.gov.in/)                         |
-| **PAN & e-Filing FAQs**     | Common doubts on filing returns for individuals and freelancers.   | [Taxpayer FAQs](https://incometaxindia.gov.in/pages/faqs.aspx)                     |
+| **FAQs on TDS / TCS**       | Covers key provisions under sections 194C, 194I, 206C, etc.        | <https://incometaxindia.gov.in/pages/tax-information-services.aspx> |
+| **Section 80C Deductions**  | List of eligible deductions and investments.                       | <https://incometax.gov.in/>                         |
+| **PAN & e-Filing FAQs**     | Common doubts on filing returns for individuals and freelancers.   | <https://incometaxindia.gov.in/pages/faqs.aspx>                     |
 
 ---
 
