@@ -10,6 +10,7 @@ This chatbot is designed to answer questions on **Indian GST and Income Tax laws
 | **FAQ on TDS under GST**      | Detailed questions on TDS provisions under the GST Act.                  | <https://incometaxindia.gov.in/Pages/faqs.aspx>                      |
 | **Advance Ruling FAQs**       | Frequently asked questions on advance tax rulings under GST.             | <https://incometaxindia.gov.in/Pages/faqs.aspx> |
 | **Returns (GSTR‑1, GSTR‑3B)** | Filing instructions, timelines, and penalties.                           | CBIC Downloads Section                                                       |
+<https://tutorial.gst.gov.in/>
 
 ---
 
