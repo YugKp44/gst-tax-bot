@@ -3,16 +3,40 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>GST & Income‑Tax Chatbot</title>
+    <title>GST & Income-Tax Chatbot</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <!-- Add this style block to control the logo size -->
+    <style>
+        .placeholder-logo img {
+            width: 80px;
+            height: 80px;
+        }
+    </style>
 </head>
 
 <body>
     <div class="chat-container">
-        <div class="chat-header">GST & Income‑Tax Chatbot</div>
-        <div id="chat-body" class="chat-body"></div>
+        <div class="chat-header">GST & Income-Tax Chatbot</div>
+        <div id="chat-body" class="chat-body">
+
+            <!-- ADD THIS HTML BLOCK for the placeholder -->
+            <div id="chat-placeholder">
+                <div class="placeholder-logo">
+                    <!--
+                        IMPORTANT: Your 'chatbot.svg' file MUST be in the 'static' folder for this to work.
+                    -->
+                    <img src="{{ url_for('static', filename='chatbot.svg') }}" alt="Chatbot Logo">
+                </div>
+                <div class="placeholder-text">
+                    <h3>Tax Chatbot</h3>
+                    <p>Ask me anything about Indian GST & Income Tax.</p>
+                </div>
+            </div>
+            <!-- The rest of your chat bubbles will be added here by JS -->
+
+        </div>
         <div class="chat-footer">
-            <input id="question-input" placeholder="Type your GST/Income‑Tax question…" autofocus>
+            <input id="question-input" placeholder="Type your GST/Income-Tax question…" autofocus>
             <button id="send-btn">Send</button>
         </div>
     </div>

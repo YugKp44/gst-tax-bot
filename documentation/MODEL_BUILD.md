@@ -40,7 +40,7 @@ The chatbot follows a two-stage process: first, it retrieves relevant informatio
 
 ### 3. Generative Model (Answer Generation)
 
--   🤖 **Generation Model**: The core of our answer generation is [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small). This is a lightweight and efficient text-to-text model that is instruction-tuned, making it perfect for question-answering tasks.
+-   🤖 **Generation Model**: The core of our answer generation is [`google/flan-t5-base`](https://huggingface.co/google/flan-t5-base). This is a lightweight and efficient text-to-text model that is instruction-tuned, making it perfect for question-answering tasks.
 
 -   ✍️ **Prompt Engineering**: The model is prompted to act as a tax expert and use the retrieved context to formulate a concise answer.
 
@@ -77,7 +77,7 @@ The chatbot follows a two-stage process: first, it retrieves relevant informatio
 | Layer          | Tool/Model                          |
 | -------------- | ----------------------------------- |
 | **Retrieval**  | `sentence-transformers` + **FAISS** |
-| **Generation** | `google/flan-t5-small`              |
+| **Generation** | `google/flan-t5-base`              |
 | **Backend**    | **Flask** + **Gunicorn**            |
 | **Packaging**  | **Docker**                          |
 | **Deployment** | **Google Cloud**                    |
@@ -123,7 +123,7 @@ The application will be available at `http://localhost:8080`.
 
 ## 🛠 Next Steps
 
--   **Model Optimization**: Replace `Flan-T5-Small` with a faster, quantized LLM like **Phi-2** or **TinyLlama** to improve inference speed.
+-   **Model Optimization**: Replace `Flan-T5-base` with a faster, quantized LLM like **Phi-2** or **TinyLlama** to improve inference speed.
 -   **Stateful Conversations**: Add session memory to handle follow-up questions and create a more conversational experience.
 -   **Feedback Loop**: Implement a mechanism for users to provide feedback on answers, which can be used to fine-tune the model.
 -   **Real-time Data**: Integrate with government APIs to fetch real-time tax information and updates.

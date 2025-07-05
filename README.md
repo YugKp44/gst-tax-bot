@@ -7,7 +7,7 @@ A smart, searchable chatbot that answers real-world queries related to **Indian 
 ## 📌 Features
 
 - 🔍 Semantic search with **FAISS** + **SentenceTransformers**
-- 🧠 Answer generation using **Flan-T5-small** model
+- 🧠 Answer generation using **Flan-T5-base** model
 - ⚡ Fast response time (~3–5 sec locally)
 - 📄 Handles both factual and situational tax queries
 
@@ -21,7 +21,7 @@ A smart, searchable chatbot that answers real-world queries related to **Indian 
 | :----------------- | :---------------------------------------- |
 | **Framework**      | Flask (Python)                            |
 | **Search Engine**  | FAISS + `all-MiniLM-L6-v2` embeddings     |
-| **Language Model** | Google `flan-t5-small` (via Transformers) |
+| **Language Model** | Google `flan-t5-base` (via Transformers) |
 | **Deployment**     | Docker / Google Cloud                     |
 
 ---

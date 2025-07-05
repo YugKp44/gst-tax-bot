@@ -2,7 +2,7 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
 from typing import List
 import torch
 
-MODEL_NAME = "google/flan-t5-small"
+MODEL_NAME = "google/flan-t5-base"
 
 # ── Load model/tokenizer ──
 print(f"Loading model {MODEL_NAME}…")

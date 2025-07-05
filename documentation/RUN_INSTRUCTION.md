@@ -43,7 +43,7 @@ pip install -r requirements.txt
 **4. Download Required Models (First-time only)**
 Run this snippet to download and cache the machine learning models locally. This might take a few minutes depending on your internet connection.
 ```bash
-python -c "from sentence_transformers import SentenceTransformer; from transformers import AutoTokenizer, AutoModelForSeq2SeqLM; print('Downloading embedding model...'); SentenceTransformer('all-MiniLM-L6-v2'); print('Downloading generation model...'); AutoTokenizer.from_pretrained('google/flan-t5-small'); AutoModelForSeq2SeqLM.from_pretrained('google/flan-t5-small'); print('All models downloaded.')"
+python -c "from sentence_transformers import SentenceTransformer; from transformers import AutoTokenizer, AutoModelForSeq2SeqLM; print('Downloading embedding model...'); SentenceTransformer('all-MiniLM-L6-v2'); print('Downloading generation model...'); AutoTokenizer.from_pretrained('google/flan-t5-base'); AutoModelForSeq2SeqLM.from_pretrained('google/flan-t5-base'); print('All models downloaded.')"
 ```
 
 **5. Run the Flask App**

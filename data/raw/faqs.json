@@ -442,379 +442,379 @@
     {
       "question": "What is GST?",
       "answer": "GST stands for Goods and Services Tax. It is a single, destination based tax on the supply of goods and services in India, introduced on July 1, 2017. It replaced multiple indirect taxes such as VAT, service tax, and excise duty.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What does GST stand for?",
       "answer": "GST stands for Goods and Services Tax. It is a comprehensive, destination based indirect tax that is levied on the supply of goods and services in India.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "Explain GST in simple terms.",
       "answer": "GST is a single indirect tax that combines many central and state taxes into one. It is charged at every step of the supply chain and is meant to make taxation simpler and more transparent.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is Goods and Services Tax (GST)?",
       "answer": "Goods and Services Tax (GST) is a unified tax that applies to the supply of goods and services across India. It was implemented on July 1, 2017 to simplify the indirect tax structure.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What are the types of GST in India?",
       "answer": "There are four components:\n\n- CGST (Central GST): Levied on intrastate supplies, collected by the Centre\n- SGST/UTGST (State/Union Territory GST): Levied on intrastate supplies, collected by the State/UT\n- IGST (Integrated GST): Levied on interstate supplies, collected by the Centre and shared with States\n- CESS: Levied on specific goods (e.g., tobacco) to fund compensation to States",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the difference between CGST, SGST, and IGST?",
       "answer": "CGST (Central GST) is collected by the central government on intrastate sales; SGST (State GST) is collected by the state government on intrastate sales; IGST (Integrated GST) is collected by the central government on interstate sales and is shared with states.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate structure in India?",
       "answer": "GST rates are categorized into four main slabs: 5%, 12%, 18%, and 28%. Some goods/services may also attract a zero rate or a special rate (e.g., CESS on luxury items).",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     
     
     {
       "question": "Who must register under GST?",
       "answer": "Any business with aggregate turnover above ₹40 lakhs (₹20 lakhs for special category States) in a financial year must register. Services‑only businesses register if turnover exceeds ₹20 lakhs (₹10 lakhs in special States).",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST Composition Scheme?",
       "answer": "A simplified scheme for small taxpayers (turnover up to ₹1.5 crores) to pay a fixed percentage of turnover as tax (e.g. 1% for manufacturers) and file quarterly returns; they can’t claim Input Tax Credit.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is Input Tax Credit (ITC)?",
       "answer": "ITC lets a registered taxpayer reduce the tax paid on purchases (inputs) from their tax liability on sales (outputs), provided they have a valid tax invoice and the supplier has paid the tax.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What are the main GST return forms?",
       "answer": "GSTR‑1: Outward supplies (sales) details, filed monthly/quarterly; GSTR‑3B: Summary return of liabilities and ITC, filed monthly; GSTR‑9: Annual return summarizing all transactions.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "When are GSTR‑1 and GSTR‑3B due?",
       "answer": "GSTR‑1: 11th of the next month (or quarter for small taxpayers); GSTR‑3B: 20th of the next month.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is an HSN code?",
       "answer": "Harmonized System of Nomenclature (HSN) is an internationally recognized classification that assigns 4‑ to 8‑digit codes to goods to harmonize tax treatment across borders.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is a Tax Invoice under GST?",
       "answer": "A GST tax invoice is a document issued by a registered supplier containing details like supplier/recipient GSTIN, invoice number & date, HSN/SAC codes, taxable value, and tax breakup (CGST/SGST/IGST).",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the Reverse Charge Mechanism?",
       "answer": "Under reverse charge, the recipient, instead of the supplier, must pay GST on specified supplies (e.g. services from an unregistered person).",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the penalty for late GST return filing?",
       "answer": "For GSTR‑3B, late fee is ₹50/day per Act (CGST+SGST) up to ₹5,000 total. For GSTR‑1, ₹200/day under CGST+SGST up to ₹10,000.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is e‑invoicing under GST?",
       "answer": "Businesses with turnover > ₹10 crores must generate invoices through the Invoice Registration Portal (IRP) so that each invoice has a unique Invoice Reference Number (IRN) and QR code.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "How do I cancel my GST registration?",
       "answer": "A taxpayer can apply for voluntary cancellation in FORM GST REG‑16 if they stop business; the proper officer cancels in FORM GST REG‑19 after verification.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What happens if I don’t file GST returns?",
       "answer": "Non‑filing attracts late fees and interest; prolonged non‑compliance can lead to cancellation of GST registration and recovery proceedings.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "How can I check my GSTIN status?",
       "answer": "Go to https://www.gst.gov.in/ → Search Taxpayer → Enter the 15‑digit GSTIN to view registration status and return filing history.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST Council?",
       "answer": "The GST Council is a constitutional body that makes recommendations on GST rates, exemptions, and procedures. It consists of the Union Finance Minister and State Finance Ministers.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the role of the GST Network (GSTN)?",
       "answer": "Here’s a list:\n\n- Item 1\n- Item 2\n- Item 3",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on essential goods?",
       "answer": "Essential goods like food grains, fresh vegetables, and fruits are generally exempt from GST or attract a very low rate (0% to 5%).",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "How do I file a complaint against a GST officer?",
       "answer": "You can file a complaint online at the GST portal or approach the jurisdictional GST officer with your grievance.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the process for claiming a GST refund?",
       "answer": "To claim a GST refund, file FORM GST RFD‑01 online, provide necessary documents, and submit it to the jurisdictional GST officer for processing.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on luxury goods?",
       "answer": "Luxury goods attract higher GST rates, typically 18% or 28%, depending on the item. Some luxury items may also attract an additional cess.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on services?",
       "answer": "Most services attract a GST rate of 18%, but some services may be taxed at 5%, 12%, or 28% depending on the nature of the service.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on imported goods?",
       "answer": "Imported goods are subject to IGST at the same rates as domestic goods, along with customs duties. The IGST paid can be claimed as Input Tax Credit.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "How do I update my GST registration details?",
       "answer": "To update GST registration details, log in to the GST portal, go to 'Services' → 'Registration' → 'Amendment of Registration', and submit the required changes.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on e-commerce transactions?",
       "answer": "E-commerce transactions are subject to GST at the applicable rates for goods/services sold through the platform. E-commerce operators must collect TCS at 1% on net taxable supplies.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on digital services?",
       "answer": "Digital services like online streaming, software downloads, and e-books are generally taxed at 18% under GST.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on educational services?",
       "answer": "Educational services provided by recognized institutions are generally exempt from GST. However, coaching and training services may attract 18% GST.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "How do I appeal against a GST assessment order?",
       "answer": "To appeal against a GST assessment order, file FORM GST APL‑01 within 3 months of receiving the order, along with the required fees and documents.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on healthcare services?",
       "answer": "Healthcare services provided by hospitals and clinics are generally exempt from GST. However, certain cosmetic and non-essential medical services may attract GST.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on real estate transactions?",
       "answer": "Real estate transactions attract GST at 1% for affordable housing and 5% for other residential properties. Commercial properties are taxed at 12% or 18% depending on the nature of the transaction.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on financial services?",
       "answer": "Financial services like banking, insurance, and mutual funds are generally taxed at 18% under GST. However, certain specific services may have different rates.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on transportation services?",
       "answer": "Transportation services, including logistics and freight, are generally taxed at 5% under GST. However, certain specialized transport services may attract different rates.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on restaurant services?",
       "answer": "Restaurant services attract 5% GST without input tax credit (ITC) for non-air-conditioned restaurants, and 18% for air-conditioned restaurants. Alcoholic beverages are not covered under GST.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on mobile phones?",
       "answer": "Mobile phones attract a GST rate of 18%. However, certain components and accessories may have different rates.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on gold and precious metals?",
       "answer": "Gold and precious metals attract a GST rate of 3%. However, gold jewelry may attract a higher rate depending on the design and craftsmanship.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on petroleum products?",
       "answer": "Petroleum products like petrol, diesel, and natural gas are currently outside the purview of GST and are taxed separately by the central and state governments.",
-      "source": "GST.pdf"
+      "source": "GST Portal"
     },
     {
       "question": "What is the GST rate on alcoholic beverages?",
       "answer": "Alcoholic beverages for human consumption are not covered under GST and are taxed by the states at their own rates. However, alcoholic beverages for industrial use may attract GST at 18%.",
-      "source": "GST.pdf" 
+      "source": "GST Portal" 
     },
   {
     "question": "What is the GST rate on solar power systems?",
     "answer": "Solar power systems attract a GST rate of 5% for solar panels and 18% for inverters and batteries.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on electric vehicles?",
     "answer": "Electric vehicles attract a reduced GST rate of 5% to promote their adoption. Charging stations for electric vehicles also attract a GST rate of 5%.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services?",
     "answer": "Construction services for residential properties attract a GST rate of 1% for affordable housing and 5% for other residential properties. Commercial construction services are taxed at 12% or 18%.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on software and IT services?",
     "answer": "Software and IT services are generally taxed at 18% under GST. However, certain specific software products may have different rates.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on advertising services?",
     "answer": "Advertising services, including digital marketing and media buying, are generally taxed at 18% under GST.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction materials?",
     "answer": "Construction materials like cement, steel, and bricks attract a GST rate of 28%. However, certain eco-friendly materials may have lower rates.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on beauty and wellness services?",
     "answer": "Beauty and wellness services, including salons and spas, are generally taxed at 18% under GST.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on travel and tourism services?",
     "answer": "Travel and tourism services, including hotel accommodations and tour packages, are generally taxed at 12% or 18% depending on the nature of the service.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on agricultural products?",
     "answer": "Agricultural products like fresh fruits, vegetables, and grains are generally exempt from GST or attract a very low rate (0% to 5%).",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for government projects?",
     "answer": "Construction services for government projects may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on used vehicles?",
     "answer": "Used vehicles attract a GST rate of 12% on the transaction value, provided the vehicle is sold by a registered dealer. If sold by an unregistered person, the applicable rate is 18%.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on scrap materials?",
     "answer": "Scrap materials like metal scrap and paper scrap attract a GST rate of 18%. However, certain specific types of scrap may have different rates.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on packaging materials?",
     "answer": "Packaging materials like plastic containers, cardboard boxes, and glass bottles generally attract a GST rate of 18%. However, certain eco-friendly packaging materials may have lower rates.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on mobile accessories?",
     "answer": "Mobile accessories like chargers, earphones, and cases generally attract a GST rate of 18%. However, certain specific accessories may have different rates.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction equipment?",
     "answer": "Construction equipment like excavators, cranes, and bulldozers generally attract a GST rate of 28%. However, certain eco-friendly equipment may have lower rates.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on renewable energy products?",
     "answer": "Renewable energy products like solar panels and wind turbines generally attract a GST rate of 5% to promote their adoption.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on financial services like loans and insurance?",
     "answer": "Financial services like loans and insurance are generally taxed at 18% under GST. However, certain specific financial products may have different rates.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for residential properties?",
     "answer": "Construction services for residential properties attract a GST rate of 1% for affordable housing and 5% for other residential properties.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for commercial properties?",
     "answer": "Construction services for commercial properties are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for government projects?",
     "answer": "Construction services for government projects may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for infrastructure projects?",
     "answer": "Construction services for infrastructure projects like roads, bridges, and airports generally attract a GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for public sector undertakings (PSUs)?",
     "answer": "Construction services provided to PSUs may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for private sector projects?",
     "answer": "Construction services for private sector projects are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for residential complexes?",
     "answer": "Construction services for residential complexes attract a GST rate of 1% for affordable housing and 5% for other residential properties.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for commercial complexes?",
     "answer": "Construction services for commercial complexes are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for industrial projects?",
     "answer": "Construction services for industrial projects are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for educational institutions?",
     "answer": "Construction services for educational institutions may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for healthcare facilities?",
     "answer": "Construction services for healthcare facilities may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for hospitality projects?",
     "answer": "Construction services for hospitality projects like hotels and resorts are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for retail projects?",
     "answer": "Construction services for retail projects are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for entertainment projects?",
     "answer": "Construction services for entertainment projects like multiplexes and amusement parks are generally taxed at 12% or 18% depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for sports facilities?",
     "answer": "Construction services for sports facilities may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   {
     "question": "What is the GST rate on construction services for religious buildings?",
     "answer": "Construction services for religious buildings may attract a lower GST rate of 12% or 18%, depending on the nature of the project and the terms of the contract.",
-    "source": "GST.pdf"
+    "source": "GST Portal"
   },
   
     {
@@ -871,6 +871,301 @@
       "question": "What is the Reverse Charge Mechanism (RCM) under GST?",
       "answer": "Typically, the supplier of goods or services pays GST. Under the Reverse Charge Mechanism, the liability to pay GST is shifted to the recipient of the goods or services. This applies to specific supplies, such as services from a Goods Transport Agency (GTA) or legal services from an advocate.",
       "source": "Section 9(3), CGST Act, 2017"
+    },
+    {
+      "question": "What is GSTR-3B?",
+      "answer": "GSTR-3B is a monthly self-declaration to be filed by a registered dealer. It is a summary return of outward supplies, input tax credit claimed, tax liability, and taxes paid.",
+      "source": "GSTN"
+    },
+    {
+      "question": "Who needs to file GSTR-3B?",
+      "answer": "Every person who is registered under GST must file GSTR-3B. However, there are a few exceptions, such as Input Service Distributors, composition dealers, suppliers of OIDAR services, and non-resident taxable persons.",
+      "source": "Rule 61 of CGST Rules, 2017"
+    },
+    {
+      "question": "What is the due date for filing GSTR-3B for monthly filers?",
+      "answer": "The due date for filing GSTR-3B for monthly filers is the 20th of the month succeeding the tax period.",
+      "source": "Section 39(1) of CGST Act, 2017"
+    },
+    {
+      "question": "What happens if I file GSTR-3B after the due date?",
+      "answer": "If you file GSTR-3B after the due date, you will be liable to pay a late fee and interest on the outstanding tax liability.",
+      "source": "Section 47 & 50 of CGST Act, 2017"
+    },
+    {
+      "question": "How is the late fee for GSTR-3B calculated?",
+      "answer": "The late fee is Rs. 50 per day of delay (Rs. 25 for CGST and Rs. 25 for SGST). For nil returns, the late fee is Rs. 20 per day of delay (Rs. 10 for CGST and Rs. 10 for SGST). The maximum late fee is capped based on the taxpayer's aggregate turnover.",
+      "source": "Section 47 of CGST Act, 2017"
+    },
+    {
+      "question": "What is the interest rate for late payment of GST liability?",
+      "answer": "The interest is calculated at 18% per annum on the amount of outstanding tax to be paid.",
+      "source": "Section 50 of CGST Act, 2017"
+    },
+    {
+      "question": "Can I file a nil GSTR-3B?",
+      "answer": "Yes, if you have not made any outward supply and have no tax liability to declare for a particular tax period, you must file a nil GSTR-3B.",
+      "source": "GSTN"
+    },
+    {
+      "question": "What is GSTR-2B?",
+      "answer": "GSTR-2B is an auto-drafted Input Tax Credit (ITC) statement which is generated for every registered person on the basis of the information furnished by their suppliers in their respective GSTR-1, GSTR-5 and GSTR-6.",
+      "source": "Rule 60(7) of CGST Rules, 2017"
+    },
+    {
+      "question": "When is GSTR-2B generated?",
+      "answer": "GSTR-2B is generated on the 14th of the month succeeding the tax period.",
+      "source": "GSTN"
+    },
+    {
+      "question": "What is the difference between GSTR-2A and GSTR-2B?",
+      "answer": "GSTR-2A is a dynamic statement that gets updated as and when the supplier uploads the invoices. GSTR-2B is a static statement and it cannot be changed once generated. It provides a summary of eligible and ineligible ITC for a tax period.",
+      "source": "CBIC"
+    },
+    {
+      "question": "Is it mandatory to reconcile GSTR-3B with GSTR-2B?",
+      "answer": "Yes, it is highly recommended to reconcile the ITC claimed in GSTR-3B with the details available in GSTR-2B to avoid any discrepancies and potential notices from the tax authorities.",
+      "source": "GST Best Practices"
+    },
+    {
+      "question": "What should I do if an invoice is not appearing in my GSTR-2B?",
+      "answer": "You should contact your supplier and request them to upload the invoice in their GSTR-1. You can claim the ITC for such an invoice in a subsequent tax period once it appears in your GSTR-2B.",
+      "source": "Rule 36(4) of CGST Rules, 2017"
+    },
+    {
+      "question": "What is Input Tax Credit (ITC)?",
+      "answer": "Input Tax Credit means that at the time of paying tax on output, you can reduce the tax you have already paid on inputs. In simple terms, it is the credit of GST paid on the purchase of goods or services that can be used to set off the GST liability on the sale of goods or services.",
+      "source": "Section 2(63) of CGST Act, 2017"
+    },
+    {
+      "question": "What are the basic conditions for claiming ITC?",
+      "answer": "The registered person must be in possession of a tax invoice or debit note, have received the goods or services, the tax charged on the supply has been actually paid to the government, and the return has been furnished.",
+      "source": "Section 16(2) of CGST Act, 2017"
+    },
+    {
+      "question": "What is the time limit for claiming ITC?",
+      "answer": "A taxpayer can claim ITC for an invoice or debit note for a financial year up to the 30th of November of the following financial year or the furnishing of the relevant annual return, whichever is earlier.",
+      "source": "Section 16(4) of CGST Act, 2017"
+    },
+    {
+      "question": "What happens if I don't pay my supplier within 180 days?",
+      "answer": "If you fail to pay the supplier the value of the supply along with the tax payable thereon within 180 days from the date of issue of the invoice, the ITC availed by you will be added to your output tax liability, along with interest.",
+      "source": "Proviso to Section 16(2) of CGST Act, 2017"
+    },
+    {
+      "question": "Can I re-avail the ITC that was reversed due to non-payment to the supplier?",
+      "answer": "Yes, you can re-avail the credit once you make the payment to the supplier.",
+      "source": "Proviso to Section 16(2) of CGST Act, 2017"
+    },
+    {
+      "question": "What is blocked credit under GST?",
+      "answer": "Blocked credit refers to the supply of certain goods and services on which ITC is not available. These are specified under Section 17(5) of the CGST Act, 2017.",
+      "source": "Section 17(5) of CGST Act, 2017"
+    },
+    {
+      "question": "Can I claim ITC on motor vehicles?",
+      "answer": "ITC on motor vehicles for transportation of persons with a seating capacity of not more than thirteen persons (including the driver) is blocked, except when they are used for making further supply of such vehicles, transportation of passengers, or imparting training on driving.",
+      "source": "Section 17(5)(a) of CGST Act, 2017"
+    },
+    {
+      "question": "Is ITC available on food and beverages?",
+      "answer": "ITC on the supply of food and beverages, outdoor catering, beauty treatment, health services, cosmetic and plastic surgery is blocked, unless it is used for making an outward taxable supply of the same category.",
+      "source": "Section 17(5)(b) of CGST Act, 2017"
+    },
+    {
+      "question": "Can I claim ITC on works contract services for construction of an immovable property?",
+      "answer": "No, ITC on works contract services when supplied for construction of an immovable property (other than plant and machinery) is blocked.",
+      "source": "Section 17(5)(c) of CGST Act, 2017"
+    },
+    {
+      "question": "What is the consequence of not filing GSTR-3B for a long period?",
+      "answer": "If a registered person fails to furnish returns for a continuous period of six months, the proper officer may cancel the GST registration.",
+      "source": "Section 29(2)(c) of CGST Act, 2017"
+    },
+    {
+      "question": "Can I revise my GSTR-3B once filed?",
+      "answer": "No, GSTR-3B once filed cannot be revised. Any correction or amendment can be made in the GSTR-3B of subsequent tax periods.",
+      "source": "GSTN"
+    },
+    {
+      "question": "How do I report interest and late fees in GSTR-3B?",
+      "answer": "Interest and late fees are auto-populated in the next month's GSTR-3B in the 'Interest and Late Fee' tile. The taxpayer needs to pay this amount along with the tax liability.",
+      "source": "GST Portal"
+    },
+    {
+      "question": "What is the 'Electronic Cash Ledger' in the context of GSTR-3B filing?",
+      "answer": "The Electronic Cash Ledger is an e-wallet on the GST portal. Any payment made by a taxpayer towards tax, interest, penalty, late fee, or any other amount is credited to this ledger. The payment of GSTR-3B liability is made from the balance available in the Electronic Cash Ledger and Electronic Credit Ledger.",
+      "source": "Section 49 of CGST Act, 2017"
+    },
+    {
+      "question": "What is the 'Electronic Credit Ledger'?",
+      "answer": "The Electronic Credit Ledger is a statement of the Input Tax Credit available to a taxpayer. The ITC claimed in GSTR-3B is credited to this ledger, and it can be used to pay the output tax liability.",
+      "source": "Section 49 of CGST Act, 2017"
+    },
+    {
+      "question": "In what order should the ITC be utilized?",
+      "answer": "IGST credit should be first utilized for payment of IGST liability, then CGST liability, and then SGST/UTGST liability. CGST credit should be utilized for payment of CGST liability and then IGST liability. SGST/UTGST credit should be utilized for payment of SGST/UTGST liability and then IGST liability.",
+      "source": "Section 49A & 49B of CGST Act, 2017"
+    },
+    {
+      "question": "Can I claim ITC on goods given as free samples?",
+      "answer": "No, ITC is not available for goods lost, stolen, destroyed, written off or disposed of by way of gift or free samples.",
+      "source": "Section 17(5)(h) of CGST Act, 2017"
+    },
+    {
+      "question": "My supplier has filed GSTR-1, but the tax has not been paid. Can I claim ITC?",
+      "answer": "As per the condition for claiming ITC, the tax charged in respect of the supply must have been actually paid to the government. If the supplier has not paid the tax, the recipient's ITC may be disputed by the department.",
+      "source": "Section 16(2)(c) of CGST Act, 2017"
+    },
+    {
+      "question": "What is the purpose of reconciling GSTR-1 and GSTR-3B?",
+      "answer": "Reconciling GSTR-1 (details of outward supplies) with GSTR-3B (summary of outward supplies) is crucial to ensure that there is no mismatch in the tax liability declared and paid. Discrepancies can lead to notices and penalties.",
+      "source": "GST Best Practices"
+    },
+    {
+      "question": "If I miss claiming ITC for an invoice in a particular month, can I claim it later?",
+      "answer": "Yes, you can claim the missed ITC in any subsequent month, but before the time limit specified under Section 16(4) of the CGST Act, which is the 30th of November of the next financial year or the filing of the annual return, whichever is earlier.",
+      "source": "Section 16(4) of CGST Act, 2017"
+    },
+    {
+      "question": "What is the QRMP scheme?",
+      "answer": "The QRMP (Quarterly Return Monthly Payment) scheme is for small taxpayers whose aggregate annual turnover is up to ₹5 crores. Under this scheme, they can file their GSTR-3B quarterly and pay tax monthly.",
+      "source": "CBIC"
+    },
+    {
+      "question": "How do I make the monthly tax payment under the QRMP scheme?",
+      "answer": "Taxpayers under the QRMP scheme have to pay the tax due for the first two months of the quarter by the 25th of the following month through a simple challan in Form GST PMT-06.",
+      "source": "Rule 61(3) of CGST Rules, 2017"
+    },
+    {
+      "question": "What is the 'Invoice Furnishing Facility' (IFF) for QRMP taxpayers?",
+      "answer": "Taxpayers under the QRMP scheme can opt to use the Invoice Furnishing Facility (IFF) to upload their B2B invoices for the first two months of the quarter. This allows the recipients to see these invoices in their GSTR-2A and GSTR-2B and claim ITC.",
+      "source": "Rule 59(2) of CGST Rules, 2017"
+    },
+    {
+      "question": "Is late fee applicable for delayed filing of GSTR-3B under the QRMP scheme?",
+      "answer": "Yes, a late fee is applicable for the delayed filing of the quarterly GSTR-3B. There is no late fee for the monthly payment of tax.",
+      "source": "Section 47 of CGST Act, 2017"
+    },
+    {
+      "question": "Can I claim ITC on capital goods?",
+      "answer": "Yes, ITC on capital goods can be claimed, provided they are used or intended to be used in the course or furtherance of business. However, if depreciation is claimed on the tax component of the cost of capital goods, then ITC is not allowed.",
+      "source": "Section 16(3) of CGST Act, 2017"
+    },
+    {
+      "question": "What is the treatment of ITC in case of exempted supplies?",
+      "answer": "Where a registered person uses goods or services for making both taxable and exempted supplies, the ITC on such common inputs and input services shall be restricted to the amount that is attributable to the taxable supplies.",
+      "source": "Section 17(2) of CGST Act, 2017 & Rule 42 of CGST Rules, 2017"
+    },
+    {
+      "question": "How to report debit and credit notes in GSTR-3B?",
+      "answer": "The net effect of debit and credit notes should be adjusted in the outward supplies and the corresponding tax liability in Table 3.1 of GSTR-3B. Similarly, the ITC impact of debit and credit notes on inward supplies should be reported in Table 4.",
+      "source": "GSTR-3B Form Instructions"
+    },
+    {
+      "question": "What details are available in the summary of GSTR-2B?",
+      "answer": "The summary of GSTR-2B provides details of ITC available, ITC not available, and ITC to be reversed on account of credit notes.",
+      "source": "GSTN"
+    },
+    {
+      "question": "Can the recipient of goods or services force the supplier to file GSTR-1 on time?",
+      "answer": "While the recipient cannot legally force the supplier, timely filing by the supplier is a prerequisite for the recipient to claim ITC. Therefore, it is in the recipient's best interest to follow up with the supplier for timely filing.",
+      "source": "Business Practice"
+    },
+    {
+      "question": "If my GST registration is cancelled, do I still need to file GSTR-3B?",
+      "answer": "Yes, you are required to file all pending GSTR-3B returns up to the date of cancellation of registration.",
+      "source": "Section 45 of CGST Act, 2017"
+    },
+    {
+      "question": "What is the consequence of claiming ITC in GSTR-3B that is more than what is reflected in GSTR-2B?",
+      "answer": "Claiming ITC in excess of what is reflected in GSTR-2B can lead to the issuance of a notice from the GST department seeking an explanation for the discrepancy. It may result in the reversal of excess ITC claimed along with interest.",
+      "source": "Rule 88D of CGST Rules, 2017"
+    },
+    {
+      "question": "Is ITC available on GST paid on reverse charge basis?",
+      "answer": "Yes, the recipient of goods or services on which tax is payable on a reverse charge basis can avail ITC of the tax so paid, provided the goods or services are used for business purposes.",
+      "source": "Section 16 of CGST Act, 2017"
+    },
+    {
+      "question": "Where do I report the tax paid under reverse charge in GSTR-3B?",
+      "answer": "The tax liability on account of reverse charge is to be paid in cash and reported in Table 3.1(d) of GSTR-3B. The eligible ITC on such tax paid can be claimed in Table 4(A)(3) of the same return.",
+      "source": "GSTR-3B Form Instructions"
+    },
+    {
+      "question": "Can a composition dealer claim ITC?",
+      "answer": "No, a person registered under the composition scheme is not eligible to claim Input Tax Credit.",
+      "source": "Section 10 of CGST Act, 2017"
+    },
+    {
+      "question": "What is the penalty for wrongful availment and utilization of ITC?",
+      "answer": "If ITC has been wrongfully availed and utilized, the person shall be liable to pay a penalty equal to 10% of the tax amount, or Rs. 10,000, whichever is higher. In case of fraud, the penalty can be higher.",
+      "source": "Section 122 of CGST Act, 2017"
+    },
+    {
+      "question": "What is the 'Rule of 5%' in the context of ITC?",
+      "answer": "Earlier, a taxpayer could claim provisional ITC up to 5% of the eligible ITC available in GSTR-2A for invoices not uploaded by the suppliers. However, this provision has been done away with, and now ITC can only be claimed if it appears in GSTR-2B.",
+      "source": "Erstwhile Rule 36(4) of CGST Rules, 2017 (now amended)"
+    },
+    {
+      "question": "Can I file GSTR-3B without paying the tax liability?",
+      "answer": "No, GSTR-3B cannot be filed without the full payment of the self-assessed tax liability.",
+      "source": "Section 39(7) of CGST Act, 2017"
+    },
+    {
+      "question": "What are the modes of payment for GST?",
+      "answer": "GST can be paid through Internet Banking, NEFT/RTGS, and over the counter (for payments up to Rs. 10,000 per challan per tax period).",
+      "source": "GSTN"
+    },
+    {
+      "question": "Can I use the ITC of one GSTIN to set off the liability of another GSTIN?",
+      "answer": "No, the Input Tax Credit of one GSTIN cannot be used to set off the liability of another GSTIN, even if they belong to the same legal entity (same PAN).",
+      "source": "GST Law Principle"
+    },
+    {
+      "question": "How to handle a situation where a supplier has shown an invoice in GSTR-1, but I have not received the goods?",
+      "answer": "You should not claim ITC on such an invoice as the receipt of goods is a mandatory condition for claiming ITC. You can claim it in the month you actually receive the goods.",
+      "source": "Section 16(2)(b) of CGST Act, 2017"
+    },
+    {
+      "question": "Is it possible to get an extension for the GSTR-3B due date?",
+      "answer": "The government may, by notification, extend the due date for filing GSTR-3B for specified classes of taxpayers or for all taxpayers.",
+      "source": "Proviso to Section 39(1) of CGST Act, 2017"
+    },
+    {
+      "question": "What is the significance of Table 5 of GSTR-3B?",
+      "answer": "Table 5 of GSTR-3B is for reporting details of exempt, nil-rated, and non-GST inward supplies. This information is for record-keeping and does not have any tax implication.",
+      "source": "GSTR-3B Form Instructions"
+    },
+    {
+      "question": "If I am a new GST registrant, can I claim ITC on my opening stock?",
+      "answer": "Yes, a person who has applied for registration within thirty days from the date on which he becomes liable to registration and has been granted such registration shall be entitled to take credit of input tax in respect of inputs held in stock and inputs contained in semi-finished or finished goods held in stock on the day immediately preceding the date from which he becomes liable to pay tax.",
+      "source": "Section 18(1)(a) of CGST Act, 2017"
+    },
+    {
+      "question": "What is the process to claim ITC on capital goods under GST?",
+      "answer": "To claim ITC on capital goods, you must have a valid tax invoice, the capital goods must be used in the course or furtherance of business, and you must file the claim in your GSTR-3B for the month in which the capital goods were received. The ITC can be claimed in one installment or in installments over a period of five years.",
+      "source": "Section 18(1)(b) of CGST Act, 2017"
+    },
+    {
+      "question": "What is the difference between GSTR-1 and GSTR-3B?",
+      "answer": "GSTR-1 is a monthly/quarterly return that contains details of outward supplies made by a registered person, while GSTR-3B is a summary return that contains details of outward supplies, input tax credit claimed, and tax liability. GSTR-1 is filed before GSTR-3B.",
+      "source": "GSTN"
+    },
+    {
+      "question": "What is the due date for filing GSTR-1?",
+      "answer": "The due date for filing GSTR-1 is the 11th of the month following the tax period for monthly filers and the 13th of the month following the quarter for quarterly filers under the QRMP scheme.",
+      "source": "Section 37(1) of CGST Act, 2017"
+    },
+    {
+      "question": "Can I file GSTR-1 after the due date?",
+      "answer": "Yes, you can file GSTR-1 after the due date, but a late fee will be applicable. The late fee is ₹200 per day of delay (₹100 under CGST and ₹100 under SGST), subject to a maximum of ₹5,000.",
+      "source": "Section 47 of CGST Act, 2017"
+    },
+    {
+      "question": "What is the penalty for not filing GSTR-1?",
+      "answer": "If a registered person fails to furnish GSTR-1 within the prescribed time, they may be liable to pay a penalty of ₹200 per day of delay (₹100 under CGST and ₹100 under SGST), subject to a maximum of ₹5,000.",
+      "source": "Section 47 of CGST Act, 2017"
     },
     {
       "question": "What is Form 26AS and why is it important?",

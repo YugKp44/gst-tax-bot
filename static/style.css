@@ -28,6 +28,38 @@
     gap: 1rem;
 }
 
+/* --- NEW: Placeholder Styles --- */
+#chat-placeholder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: #999;
+    text-align: center;
+}
+
+.placeholder-logo {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1rem;
+    opacity: 0.7;
+}
+
+.placeholder-text h3 {
+    margin: 0;
+    font-size: 1.4rem;
+    color: #555;
+}
+
+.placeholder-text p {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+}
+
+/* --- End of Placeholder Styles --- */
+
+
 /* footer */
 .chat-footer {
     background: #fff;
