@@ -22,8 +22,8 @@ RUN pip install --upgrade pip && \
 
 # Pre-download and cache the models during the build process.
 # This saves time on the first run of the container.
-# Using a Python heredoc to execute the download script.
-RUN python3 -c "from sentence_transformers import SentenceTransformer; from transformers import AutoTokenizer, AutoModelForSeq2SeqLM; SentenceTransformer('all-MiniLM-L6-v2'); AutoTokenizer.from_pretrained('google/flan-t5-small'); AutoModelForSeq2SeqLM.from_pretrained('google/flan-t5-small')"
+# Using a Python script to download the models.
+RUN python3 -c "from sentence_transformers import SentenceTransformer; from transformers import AutoTokenizer, AutoModelForSeq2SeqLM; SentenceTransformer('all-MiniLM-L6-v2'); AutoTokenizer.from_pretrained('google/flan-t5-base'); AutoModelForSeq2SeqLM.from_pretrained('google/flan-t5-base')"
 
 # Copy the rest of the application code into the container
 COPY . .

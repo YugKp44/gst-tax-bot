@@ -11,3 +11,6 @@ torch
 pdfplumber
 numpy
 gunicorn
+pymongo
+scikit-learn
+nltk

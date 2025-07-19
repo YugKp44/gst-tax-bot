@@ -1,0 +1,20 @@
+# render.yaml - Configuration for Render deployment
+
+services:
+  - type: web
+    name: gst-tax-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT app:app
+    envVars:
+      - key: MONGO_URI
+        value: mongodb://localhost:27017/tax_data  # Update this with your MongoDB connection string
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    disk:
+      name: gst-bot-disk
+      mountPath: /opt/render/project/src
+      sizeGB: 10
+    scaling:
+      minInstances: 1
+      maxInstances: 3

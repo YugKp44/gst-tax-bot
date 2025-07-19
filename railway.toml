@@ -1,0 +1,13 @@
+# railway.toml - Configuration for Railway deployment
+
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "gunicorn --bind 0.0.0.0:$PORT app:app"
+healthcheckPath = "/healthz"
+healthcheckTimeout = 30
+restartPolicyType = "ON_FAILURE"
+
+[env]
+PYTHON_VERSION = "3.11"
